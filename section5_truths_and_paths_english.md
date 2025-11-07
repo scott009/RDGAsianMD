@@ -172,7 +172,23 @@ Our trauma is not our fault, but healing from it is our responsi bility, and our
 ## Chapter 18: INQUIRY OF THE FIRST NOBLE TRUTH:
 
 ### ID: p18-1
-12
+#### Class: inquirybullitt
+Begin by making a list of the behaviors and actions associated with  your addiction(s) that you consider harmful. Without exaggerating or minimizing, think about the things you have done that have cre ated additional suffering to yourself and others.
+### ID: p18-2
+#### Class: inquirybullitt
+For each behavior listed, write how you and others have suffered because of that behavior. 
+### ID: p18-3
+#### Class: inquirybullitt
+List any other costs or negative consequences you can think of, such  as finances, health, relationships, sexual relations, or missed oppor tunities. 
+### ID: p18-4
+#### Class: inquirybullitt
+Do you notice any patterns? What are they? What are the ways that  you might avoid or reduce suffering for yourself and others if you  change these patterns?
+### ID: p18-5
+#### Class: inquirybullitt
+How have your addictive behaviors been a response to trauma and  pain? What are some ways you can respond to trauma and pain that  nurture healing rather than avoidance?  
+### ID: p18-6
+#### Class: inquirybullitt
+If you have experienced trauma from discrimination, what are ways  you can experience healing and practice self-care? Consider oppor tunities to support social justice while allowing yourself to heal and  practice compassion for yourself and others.  
 
 ## Chapter 19: THE SECOND NOBLE TRUTH:
 
@@ -647,7 +663,23 @@ Our trauma is not our fault, but healing from it is our responsi bility, and our
 ## Chapter 18: INQUIRY OF THE FIRST NOBLE TRUTH:
 
 ### ID: p18-1
-12
+#### Class: inquirybullitt
+Begin by making a list of the behaviors and actions associated with  your addiction(s) that you consider harmful. Without exaggerating or minimizing, think about the things you have done that have cre ated additional suffering to yourself and others.
+### ID: p18-2
+#### Class: inquirybullitt
+For each behavior listed, write how you and others have suffered because of that behavior. 
+### ID: p18-3
+#### Class: inquirybullitt
+List any other costs or negative consequences you can think of, such  as finances, health, relationships, sexual relations, or missed oppor tunities. 
+### ID: p18-4
+#### Class: inquirybullitt
+Do you notice any patterns? What are they? What are the ways that  you might avoid or reduce suffering for yourself and others if you  change these patterns?
+### ID: p18-5
+#### Class: inquirybullitt
+How have your addictive behaviors been a response to trauma and  pain? What are some ways you can respond to trauma and pain that  nurture healing rather than avoidance?  
+### ID: p18-6
+#### Class: inquirybullitt
+If you have experienced trauma from discrimination, what are ways  you can experience healing and practice self-care? Consider oppor tunities to support social justice while allowing yourself to heal and  practice compassion for yourself and others.  
 
 ## Chapter 19: THE SECOND NOBLE TRUTH:
 

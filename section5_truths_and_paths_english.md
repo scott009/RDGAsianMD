@@ -325,7 +325,6 @@ What behaviors can you change to more fully support your recovery?
 #### Class: inquirybullitt
 What does it mean to you to take refuge in the Buddha, the Dharma,  and the Sangha for your recovery? 
 
-# pushedToGit
 
 ## Chapter 22: THE EIGHTFOLD PATH:
 ### ID: p22-1
@@ -1073,7 +1072,6 @@ What behaviors can you change to more fully support your recovery?
 #### Class: inquirybullitt
 What does it mean to you to take refuge in the Buddha, the Dharma,  and the Sangha for your recovery? 
 
-# pushedToGit
 
 ## Chapter 22: THE EIGHTFOLD PATH:
 ### ID: p22-1

@@ -559,7 +559,199 @@ We set the intention to avoid the use of intoxicants and intoxicating  behavior 
 ### ID: p26-8
 We need to continually reflect on and question the intentions behind our actions. We may have moments of clarity, but these can quickly pass, when old habits or thoughts resurface. We commit to con stantly reminding ourselves of our intention to Wise Action: to act in ways that are non-harming.
 
-### INQUIRY OF WISE action:
+## Chapter 26.1: INQUIRY OF WISE ACTION:
+#### Class: inquirybullitt
+#### Class: inquiryheading
+
+### ID: p26.1-1
+#### Class: inquirybullitt
+Have you acted in a way that was unskillful or that created suffering?  How?
+### ID: p26.1-2
+#### Class: inquirybullitt
+During those times you were unskillful or created suffering, how  would it have changed the outcome if you had acted out of com passion, kindness, generosity, and forgiveness? Would you now have  a different emotional or mental response to your past actions if you  had acted with these principles in mind?
+
+### ID: p26.1-3
+#### Class: inquiryheading
+FIRST PRECEPT: 
+### ID: p26.1-4
+#### Class: inquirybullitt
+Have you caused harm? How? Allow for a broad understanding  of harm, including physical, emotional, mental, and karmic harm  such as financial, legal, moral, microaggression, or any of the “isms”  and phobias such as racism, sexism, ableism, classism, homophobia,  transphobia, etc. 
+### ID: p26.1-5
+#### Class: inquirybullitt
+Even if you can’t point to specific harms that you have caused, have  you acted in a way that purposely avoided being aware of the possi bility of harm? 
+
+### ID: p26.1-5
+#### Class: inquiryheading
+SECOND PRECEPT: 
+### ID: p26.1-5
+#### Class: inquirybullitt
+People “take” in many ways: we take goods or material possessions,  we take time and energy, we take care and recognition. With this  broad understanding of taking, have you taken what has not been  freely given? How? What are specific examples or patterns where this  has been true for you?
+### ID: p26.1-6
+#### Class: inquiryheading
+THIRD PRECEPT:
+### ID: p26.1-7
+#### Class: inquirybullitt
+Have you behaved irresponsibly, selfishly, or without full consent and  awareness (from yourself or partners) in your sexual conduct? How? 
+### ID: p26.1-8
+#### Class: inquirybullitt
+Reviewing your sexual partners or activities, have you been fully  aware in each instance of other existing relationships, prior or cur rent mental or emotional conditions of yourself and your partner(s),  and your own intentions in becoming sexually involved? How or  how not?
+### ID: p26.1-9
+#### Class: inquirybullitt
+Has your sexual activity, both by yourself and with others, been  based on non-harmful intentions? Have you entered into each sexu al activity with awareness and understanding? How or how not? 
+
+### ID: p26.1-10
+#### Class: inquiryheading
+FOURTH PRECEPT: 
+### ID: p26.1-11
+#### Class: inquirybullitt
+Have you been dishonest? How?
+### ID: p26.1-12
+#### Class: inquirybullitt
+What patterns did your dishonesty take? Did you act or speak dis honestly to deny or misrepresent the truth about your own   behavior or status?
+### ID: p26.1-13
+#### Class: inquirybullitt
+Were there particular situations in which your dishonesty was par ticularly present (for instance: when dealing with your addictive be haviors, in job or professional settings, among friends, with family)?  Investigate the source of the dishonesty in each setting: Was it based  on greed, confusion, fear, denial? Why were you lying? 
+### ID: p26.1-14
+#### Class: inquiryheading
+FIFTH PRECEPT: 
+### ID: p26.1-15
+#### Class: inquirybullitt
+Have you used intoxicants or other behaviors that cloud your ability  to see clearly? 
+### ID: p26.1-16
+#### Class: inquirybullitt
+What substances and behaviors have you become reliant on to  change or cloud your awareness? Has this changed over time? Or,  if you have periods of abstinence, were your habitual intoxicants or  behaviors replaced by other ways to avoid awareness of your present  circumstances and conditions? How?
+### ID: p26.1-17
+#### Class: inquirybullitt
+List ways you might practice the Five Precepts, compassion, lovingk indness, and generosity in your decision-making. 
+
+## Chapter 27: WISE LIVLIHOOD:
+
+### ID: p27-1
+The final factor in the ethical group is Wise Livelihood, which  focuses on how we support ourselves in the world. Again, the intent is  to avoid causing harm. For most of us, our work occupies so much of  our time and attention, so how we choose to make a living takes on  special importance. Understanding the principle of karma, and knowing  that unethical activity gives rise to harmful karma, whatever choices or  circumstances lead us to a particular job need to be recognized as having  karmic consequences.
+### ID: p27-2
+We try to avoid jobs that give rise to suffering and seek work  that does no harm or reduces suffering. The Buddha mentions five kinds  of livelihood to avoid: trading in weapons or instruments of killing, traf ficking in or selling human beings, killing of other beings, making or  selling addictive drugs, or business in poison. We’re encouraged to avoid  occupations based on dishonesty or injury. 
+### ID: p27-3
+Whatever our job is, we can practice it mindfully, with an in tention of non-harm, of easing suffering, and of compassion. This means  developing an attitude toward our occupation beyond just the money we  make. We can develop an approach of service and caring about the effects  of our actions on others, both within and outside our workspaces. Wise  Livelihood is not about judging ourselves or others for their choice of  work or trying to limit their choices. Instead, we try to understand why  and how we engage in whatever occupation we practice. Whatever work  we do, we can maintain an intention of benefiting others. 
+
+## Chapter 27.1: INQUIRY OF WISE LIVLIHOOD:
+### ID: p27.1-1
+#### Class: inquirybullitt
+Does your job cause harm? What is the specific nature of that harm? 
+### ID: p27.1-2
+#### Class: inquirybullitt
+How can you do your job more mindfully and with an intention of  compassion and non-harm? 
+### ID: p27.1-3
+#### Class: inquirybullitt
+Do you bring an understanding of karma and kindness to your job,  or do you compartmentalize it and exclude it from awareness of wise  action? 
+### ID: p27.1-4
+#### Class: inquirybullitt
+What part does greed play in the choices you make in your liveli hood? Does greed get in the way of awareness or compassion? 
+### ID: p27.1-5
+#### Class: inquirybullitt
+How can you be of service in your community? 
+### ID: p27.1-6
+#### Class: inquirybullitt
+How might you bring a spirit of generosity to your life, both in your  profession and outside it? 
+
+## Chapter 28: WISE EFFORT:
+
+### ID: p28-1
+Wise Effort is the first of the concentration group. It means  concentrating our effort on understanding and recovery and awakening.  Wise Effort isn’t based on how much we should meditate, how much  service we should do, or how much time we put into healthy activity. Instead, it’s the intention to devote balanced energy to supporting the  other parts of the path, particularly wisdom.
+### ID: p28-2
+The first thing to pay attention to is avoiding situations and  states of mind that can lead to unethical, unskillful, or harmful respons es. We become more aware of conditions in our lives and investigate our  own responses and reactions to those conditions. When we’re operating  out of greed, ignorance, confusion, or thinking we can get what we want,  we need to be aware of that. We put in the effort and energy to under stand what circumstances allowed these conditions to arise and how we  can begin to move away from those responses. 
+### ID: p28-3
+Energy or effort is also devoted to letting compassion, lovingk indness, generosity, and forgiveness arise when they’re not present. If we  find ourselves reacting with anger rather than compassion, fear instead  of generosity, blame instead of forgiveness, we can ask how we would  respond if those positive factors were present, and begin to respond more  skillfully. Being hard on ourselves, beating ourselves up, and suffering  from perfectionism are all familiar feelings during addiction and recov ery. When we shame ourselves for not being good enough, not trying  hard enough, not being enough, these are perfect opportunities to prac tice Wise Effort, to reflect on the question, “In this moment, how can I  be kind and gentle with myself?”
+### ID: p28-3
+In early recovery, we may be most interested in damage control:  simply stopping the destruction and demoralization we have suffered  through our habitual, unskillful responses to craving. We can begin by  awareness of that craving, and learning to make different choices that  don’t trigger the craving. Sometimes awareness is enough; sometimes  that’s all the effort we can muster. As we learn more skillful responses  to our triggers, we gain space to have more compassion, lovingkindness,  generosity, and forgiveness. And as this practice becomes more of a habit,  equanimity and peacefulness begin to replace our habits of grasping and  selfishness. Pacing ourselves is important, alternating periods of activity  and rest. We need to be aware of what our mind, emotions, body, and  recovery can handle right now, and avoid the stress that can come from  pushing ourselves too far, too fast. We need to avoid those things that  put us into unskillful mind-states, and try to do things that return us to  a more easeful way of being in the present moment.
+### ID: p28-4
+Try to remember that whatever your experience is right now,  it will pass. Remind yourself that you don’t really know how long an  unpleasant or painful experience will last. Try to be open to recognizing  and investigating the experience while it is present, without interpreting it as a permanent part of your experience. Recognizing that the craving,  experience, or thought will pass makes it easier to avoid the impulse to  make an immediate, unskillful response. 
+
+## Chapter 28.1: INQUIRY OF WISE EFFORT:
+### ID: p28.1-1
+#### Class: inquirybullitt
+What efforts have you made to connect with a wise friend, mentor, or dharma buddy who can help you develop and balance your efforts? 
+### ID: p28.1-2
+#### Class: inquirybullitt
+Think of a situation that is causing you discomfort or unease. What is the nature of the effort you’re bringing to the situation? Pay attention to whether it feels balanced and sustainable, or if you’re leaning too far in the direction of either inactivity or overexertion? 
+### ID: p28.1-3
+#### Class: inquirybullitt
+Are you dealing with overwhelming desires, aversions, laziness or  discouragement, restlessness and worry, or doubt about your own  ability to recover? How do these hindrances affect the choices you’re making?
+### ID: p28.1-4
+#### Class: inquirybullitt
+Are you avoiding feelings by checking out and giving up, or through  obsessive busyness and perfectionism? 
+
+## Chapter 29: WISE MINDFULNESS:
+### ID: p29-1
+Mindfulness — being present to what’s going on in our minds,  bodies, hearts, and world — is central to the practice of the Eightfold  Path. We learn to be present for the way things are with compassion,  without judging them or ourselves. Mindfulness is being aware of what ever is present, noticing it, and letting it pass. It’s also remembering that  we’re on a path leading to our freedom and long-lasting happiness. 
+### ID: p29-2
+Mindfulness asks us to be aware and to investigate, without the  reactivity and grasping for control that leads to suffering. We learn to  stay attentive to what’s happening without having to either react to or  deny what’s happening. For many of us, our addictions prevented us  from being mindful. In fact, that was often the whole point: we used our  substances and behaviors to avoid feeling, to avoid being aware, because  being aware was painful. But by trying to avoid pain, we often creat ed more suffering. We’re now making a different choice — to sit with  the discomfort rather than pushing it away or trying to numb it. We  can learn to sit with the discomfort in different ways, either by bringing awareness to the physical sensations that affect our bodies or in a more  distant, non-attached way, such as naming the emotions while allowing  them to arise and cease. We’re choosing to respond to it with mindful  investigation and compassion, and to trust that it will pass if we let it.  We’re remembering that there’s another way to respond to the difficulties  of life. 
+### ID: p29-3
+Our minds can get lost in how we react to experiences. When  something happens, we almost immediately begin to create a story, plan,  or fantasy about it. We have a thought about an experience, that thought  leads to another, and on and on until we’re far from a real understanding of the experience itself. Mindfulness is noticing the experience in  that moment before we get lost in the judgment of the moment or the  stories we spin about it. Rather than blindly following our reactions and  responses to an experience, mindfulness allows us the space to choose to  respond skillfully and from a place of wisdom and morality. 
+### ID: p29-4
+Mindfulness encourages us to be open to and investigate the  painful experiences (and our habitual reactions to those experiences),  rather than to deny, ignore, suppress, or run from them. Most of us have  been conditioned to be our own harshest critic from early on, especially  during our fixations on substances and behaviors. We carry the shadow  of that judgment with us, even as we seek recovery, giving ourselves nega 
+tive feedback and scrutinizing every effort we make, holding ourselves to  impossible standards of perfection. Letting go of that inner critic allows  us to be mindful in the present of the efforts we are making, mindful of  the compassion and lovingkindness we’re learning to make a part of our  practice and our lives. Remember that we often talk way more harshly to  ourselves than we ever would to somebody else. It’s useful to notice when  we’re treating ourselves too harshly, and then shift attention to what we are doing well. We can acknowledge the negative thought, and then gen tly let it go. 
+### ID: p29-5
+Mindfulness practice is based on the Satipatthana Sutta, or the **four foundations of mindfulness**. The 1st foundation, **mindfulness of the body**, asks us to bring awareness, attention, or focus on our breath  and to bodily sensations. Meditations on the breath and body are focused on this awareness. The 2nd foundation is **mindfulness of feeling and feeling tones**. This practice involves noticing the emotional tone — pleasure or displeasure — that comes with every sensation, even when the  sensation is a thought. It also encourages us to notice when a sensation  is neither pleasant nor unpleasant but feels neutral. For example, we can  experience inhales and exhales by noticing where in our body we feel the breath most directly. The second foundation instructs us to notice those  sensations that are neutral, as well as those that are pleasant or unpleasant. 
+### ID: p29-6
+The third foundation, **mindfulness of the mind**, asks us to notice  when attachment — also known as greed or wanting — comes up, and  to be aware that attachment arises in the mind. We also learn to notice  when the mind is not attached to a particular thought or sensation. The  same practice of noticing applies when we become aware of aversion,  which we can experience as resistance or even hatred. When aversion isn’t present in the mind, we can notice that the mind is free from aversion. 
+### ID: p29-7
+In the fourth foundation of mindfulness, **mindfulness of dhammas**, we begin to simply notice when a thought arises, being aware of it  without judgment or evaluation, and allowing it to pass away without  holding onto it and without creating a story out of it. Training in the  fourth foundation lets us be aware of thoughts arising and passing away,  and realizing each will pass when we let go. 
+### ID: p29-8
+Two simple practices can make mindfulness a part of our daily lives. First, we can stop whatever we’re doing at any moment, and pay attention to the physical sensation of three in-breaths and three out breaths. This simple practice grounds our attention in what’s present  right now, rather than in the voices and critics we carry with us. Shift ing from the stories and judgments we constantly create during the day  to this simple grounding practice of three breaths gives us the space we sometimes need to return to mindfulness of the present moment.
+### ID: p29-9
+A second practice is to take time to inquire into the truthful ness of the negative or difficult messages we give ourselves. First, take  time to ask yourself whether the message is true. Second, ask how sure  you are that it’s true. Are you absolutely certain about what may seem like  an easy or automatic truth? Third, notice how you feel when you believe  the thought: Does it lead to fear, anger, sadness, desire? Finally, reflect on  who you’d be without the thought. How would you feel if you weren’t  caught up in the particular mindset or scenario you’re creating?
+
+
+## Chapter 29.1: INQUIRY OF WISE MINDFULNESS:
+### ID: p29.1-1
+#### Class: inquirybullitt
+What are steps you can take to support a regular meditation practice? 
+### ID: p29.1-2
+#### Class: inquirybullitt
+What are steps you can take to practice mindfulness throughout the  day by checking in with yourself about how you’re feeling, and pausing before reacting to situations? 
+### ID: p29.1-3
+#### Class: inquirybullitt
+What are steps you can take to sit with your discomfort instead of  running from it or running toward temporary pleasure? 
+## ID: p29.1-4
+#### Class: inquirybullitt
+What are steps you can take to question the “truths” that your mind tells you, rather than automatically believing them? Identify specific  instanceswhere your mind and perceptions “lied” to you about the  truth of a situation, and how being aware of that might have changed your reaction and led to a less harmful outcome.
+### ID: p29.1-5
+#### Class: inquirybullitt
+Think about times when you felt fear, doubt, or hesitation. Now, let  yourself become aware of their temporary nature. How might that  awareness have led to an outcome that was less harmful? 
+
+## Chapter 30: WISE CONCENTRATION:
+### ID: p30-1
+The final aspect of the Eightfold Path is Wise Concentration.  Meditation practice begins with concentrating on the breath, the body,  the emotional tone of the moment, and the processes of the mind, be cause these things exist in the present moment. If we focus on breath,  for example, we’re paying attention to the present moment because our  breathing is immediate: it’s happening right now. Breathing is a natural  process that doesn’t require judgment or interpretation, and so it eases  the mind from the need to react.
+### ID: p30-2
+The purpose of concentration is to train the mind to be focused  and undistracted. Most of us, early in meditation practice, are distracted  by things around us; like a noise outside the room, a pain or discomfort  in our bodies, our own worries or judgments of the experience, bore 
+dom or weariness, or thoughts and plans. These distractions can lead to  a feeling of unease or restlessness. This is perfectly normal. In our addic tions, we nurtured the habit of distracting ourselves and for many of us,  it became a survival technique. Concentration meditation gives us the  opportunity to meet this habit with kindness and patience rather than  resistance.
+### ID: p30-3
+Concentration, like the rest of the factors of the Eightfold Path,  is a practice. As with any practice, it takes time and effort to learn a new way to focus attention. In meditation, simply noting the distraction, accepting that it exists, and then refocusing our mind back to the object of concentration, is the practice. If we become focused on discomfort, thoughts, or plans, we need to first recognize that it’s happening, and  then become curious about it. Then we can make the choice to refocus —  to concentrate on the object of the meditation. Our habitual patterns can  seduce us into thinking we’re doing it wrong, into judging our practice, or into giving up. Don’t let them. When we observe what the mind is  telling us and react with compassion, knowing we have the power to  recognize it and refocus it, we strengthen our ability to concentrate. 
+### ID: p30-4
+Concentration can be especially helpful in times of craving. In stead of getting lost in the delusion that we must have what we’re craving,  we can trust that the craving is only temporary and refocus our attention  on our intention to act wisely. This may simply be the three-breath pause  mentioned earlier, or a more formal sitting meditation concentrating on  the breath. We can use concentration meditation to train our minds to  focus on a helpful thought in the midst of temporary discomfort and  the yearning for a quick fix. This may take the form of repeated phrases  to focus and clear the mind, such as metta, compassion, or equanimity  meditations. It could also take the form of prayer, chanting, a self-affirmation, a mantra, or another form of focused attention. Concentration  practices can often bring a sense of well-being and peace in a time of tur moil. They’re a healthy way to return to a balanced, resilient state when  we’re stressed or agitated. 
+### ID: p30-5
+Sometimes when cravings or unpleasant emotions are particular ly strong, moving the body can be the best way to help refocus our energy  and find relief. Concentration at those times may mean being focused  and mindful about each movement we are making: this is my foot taking  a step, this is my hand reaching for the cup. After a few minutes of concen tration practice, of not giving energy to our craving or obsession, we may  find the intensity of the feeling has passed. The more we do this, the more  we gain confidence that we have the power to relieve the suffering of our  addiction through following this path and committing to this practice.
+### ID: p30-6
+For trauma survivors, the breath, the heart, and the mind can be  potentially overwhelming places to place the attention. So if traditional  anchors like breath and body are challenging, ask yourself: What helps  you stay present? What helps to calm your nervous system? It might be  feeling the floor beneath you, or holding a stone, or looking at a piece  of art on the wall. All that you need to be present is to pay attention to  something happening right now. 
+### ID: p30-7
+If you feel powerful emotions begin to arise during meditation,  there are some simple things you can do to remain present. For example,  you can open your eyes rather than keeping them closed, or give yourself  permission to back off from the practice you are working on. Do whatever you need to do to take care of yourself should such a state arise, wheth er that is taking some deep breaths, putting a name on your experience  (such as “flashback”), or silently repeating some compassionate phrases to yourself. Learning to turn our attention back and forth between challenging sensations and our own supportive resources is a valuable skill  that professionals call titration. You can be gentle with your practice as  you are working to develop this skill. 
+
+## Chapter 30: INQUIRY OF WISE CONCENTRATION:
+### ID: p30.1-1
+#### Class: inquirybullitt
+In what ways do you get unfocused or distracted in meditation? 
+### ID: p30.1-2
+#### Class: inquirybullitt
+What are steps you can take to refocus your mind without judging your own practice? 
+### ID: p30.1-3
+#### Class: inquirybullitt
+Notice what value or learning you could gain by carefully and kindly  noticing where your mind has gone, or what has distracted you.
+### ID: p30.1-4
+#### Class: inquirybullitt
+What are steps you can take to use concentration to see clearly and  act wisely?
+### ID: p30.1-4
+#### Class: inquirybullitt
+What are steps you can take to be kind and gentle with yourself  through this process?
 # Section 5: Truths and Paths
 
 ## Chapter 12: AWAKENING: BUDDHA
@@ -1115,4 +1307,196 @@ We set the intention to avoid the use of intoxicants and intoxicating  behavior 
 ### ID: p26-8
 We need to continually reflect on and question the intentions behind our actions. We may have moments of clarity, but these can quickly pass, when old habits or thoughts resurface. We commit to con stantly reminding ourselves of our intention to Wise Action: to act in ways that are non-harming.
 
-### INQUIRY OF WISE action:
+## Chapter 26.1: INQUIRY OF WISE ACTION:
+#### Class: inquirybullitt
+#### Class: inquiryheading
+
+### ID: p26.1-1
+#### Class: inquirybullitt
+Have you acted in a way that was unskillful or that created suffering?  How?
+### ID: p26.1-2
+#### Class: inquirybullitt
+During those times you were unskillful or created suffering, how  would it have changed the outcome if you had acted out of com passion, kindness, generosity, and forgiveness? Would you now have  a different emotional or mental response to your past actions if you  had acted with these principles in mind?
+
+### ID: p26.1-3
+#### Class: inquiryheading
+FIRST PRECEPT: 
+### ID: p26.1-4
+#### Class: inquirybullitt
+Have you caused harm? How? Allow for a broad understanding  of harm, including physical, emotional, mental, and karmic harm  such as financial, legal, moral, microaggression, or any of the “isms”  and phobias such as racism, sexism, ableism, classism, homophobia,  transphobia, etc. 
+### ID: p26.1-5
+#### Class: inquirybullitt
+Even if you can’t point to specific harms that you have caused, have  you acted in a way that purposely avoided being aware of the possi bility of harm? 
+
+### ID: p26.1-5
+#### Class: inquiryheading
+SECOND PRECEPT: 
+### ID: p26.1-5
+#### Class: inquirybullitt
+People “take” in many ways: we take goods or material possessions,  we take time and energy, we take care and recognition. With this  broad understanding of taking, have you taken what has not been  freely given? How? What are specific examples or patterns where this  has been true for you?
+### ID: p26.1-6
+#### Class: inquiryheading
+THIRD PRECEPT:
+### ID: p26.1-7
+#### Class: inquirybullitt
+Have you behaved irresponsibly, selfishly, or without full consent and  awareness (from yourself or partners) in your sexual conduct? How? 
+### ID: p26.1-8
+#### Class: inquirybullitt
+Reviewing your sexual partners or activities, have you been fully  aware in each instance of other existing relationships, prior or cur rent mental or emotional conditions of yourself and your partner(s),  and your own intentions in becoming sexually involved? How or  how not?
+### ID: p26.1-9
+#### Class: inquirybullitt
+Has your sexual activity, both by yourself and with others, been  based on non-harmful intentions? Have you entered into each sexu al activity with awareness and understanding? How or how not? 
+
+### ID: p26.1-10
+#### Class: inquiryheading
+FOURTH PRECEPT: 
+### ID: p26.1-11
+#### Class: inquirybullitt
+Have you been dishonest? How?
+### ID: p26.1-12
+#### Class: inquirybullitt
+What patterns did your dishonesty take? Did you act or speak dis honestly to deny or misrepresent the truth about your own   behavior or status?
+### ID: p26.1-13
+#### Class: inquirybullitt
+Were there particular situations in which your dishonesty was par ticularly present (for instance: when dealing with your addictive be haviors, in job or professional settings, among friends, with family)?  Investigate the source of the dishonesty in each setting: Was it based  on greed, confusion, fear, denial? Why were you lying? 
+### ID: p26.1-14
+#### Class: inquiryheading
+FIFTH PRECEPT: 
+### ID: p26.1-15
+#### Class: inquirybullitt
+Have you used intoxicants or other behaviors that cloud your ability  to see clearly? 
+### ID: p26.1-16
+#### Class: inquirybullitt
+What substances and behaviors have you become reliant on to  change or cloud your awareness? Has this changed over time? Or,  if you have periods of abstinence, were your habitual intoxicants or  behaviors replaced by other ways to avoid awareness of your present  circumstances and conditions? How?
+### ID: p26.1-17
+#### Class: inquirybullitt
+List ways you might practice the Five Precepts, compassion, lovingk indness, and generosity in your decision-making. 
+
+## Chapter 27: WISE LIVLIHOOD:
+
+### ID: p27-1
+The final factor in the ethical group is Wise Livelihood, which  focuses on how we support ourselves in the world. Again, the intent is  to avoid causing harm. For most of us, our work occupies so much of  our time and attention, so how we choose to make a living takes on  special importance. Understanding the principle of karma, and knowing  that unethical activity gives rise to harmful karma, whatever choices or  circumstances lead us to a particular job need to be recognized as having  karmic consequences.
+### ID: p27-2
+We try to avoid jobs that give rise to suffering and seek work  that does no harm or reduces suffering. The Buddha mentions five kinds  of livelihood to avoid: trading in weapons or instruments of killing, traf ficking in or selling human beings, killing of other beings, making or  selling addictive drugs, or business in poison. We’re encouraged to avoid  occupations based on dishonesty or injury. 
+### ID: p27-3
+Whatever our job is, we can practice it mindfully, with an in tention of non-harm, of easing suffering, and of compassion. This means  developing an attitude toward our occupation beyond just the money we  make. We can develop an approach of service and caring about the effects  of our actions on others, both within and outside our workspaces. Wise  Livelihood is not about judging ourselves or others for their choice of  work or trying to limit their choices. Instead, we try to understand why  and how we engage in whatever occupation we practice. Whatever work  we do, we can maintain an intention of benefiting others. 
+
+## Chapter 27.1: INQUIRY OF WISE LIVLIHOOD:
+### ID: p27.1-1
+#### Class: inquirybullitt
+Does your job cause harm? What is the specific nature of that harm? 
+### ID: p27.1-2
+#### Class: inquirybullitt
+How can you do your job more mindfully and with an intention of  compassion and non-harm? 
+### ID: p27.1-3
+#### Class: inquirybullitt
+Do you bring an understanding of karma and kindness to your job,  or do you compartmentalize it and exclude it from awareness of wise  action? 
+### ID: p27.1-4
+#### Class: inquirybullitt
+What part does greed play in the choices you make in your liveli hood? Does greed get in the way of awareness or compassion? 
+### ID: p27.1-5
+#### Class: inquirybullitt
+How can you be of service in your community? 
+### ID: p27.1-6
+#### Class: inquirybullitt
+How might you bring a spirit of generosity to your life, both in your  profession and outside it? 
+
+## Chapter 28: WISE EFFORT:
+
+### ID: p28-1
+Wise Effort is the first of the concentration group. It means  concentrating our effort on understanding and recovery and awakening.  Wise Effort isn’t based on how much we should meditate, how much  service we should do, or how much time we put into healthy activity. Instead, it’s the intention to devote balanced energy to supporting the  other parts of the path, particularly wisdom.
+### ID: p28-2
+The first thing to pay attention to is avoiding situations and  states of mind that can lead to unethical, unskillful, or harmful respons es. We become more aware of conditions in our lives and investigate our  own responses and reactions to those conditions. When we’re operating  out of greed, ignorance, confusion, or thinking we can get what we want,  we need to be aware of that. We put in the effort and energy to under stand what circumstances allowed these conditions to arise and how we  can begin to move away from those responses. 
+### ID: p28-3
+Energy or effort is also devoted to letting compassion, lovingk indness, generosity, and forgiveness arise when they’re not present. If we  find ourselves reacting with anger rather than compassion, fear instead  of generosity, blame instead of forgiveness, we can ask how we would  respond if those positive factors were present, and begin to respond more  skillfully. Being hard on ourselves, beating ourselves up, and suffering  from perfectionism are all familiar feelings during addiction and recov ery. When we shame ourselves for not being good enough, not trying  hard enough, not being enough, these are perfect opportunities to prac tice Wise Effort, to reflect on the question, “In this moment, how can I  be kind and gentle with myself?”
+### ID: p28-3
+In early recovery, we may be most interested in damage control:  simply stopping the destruction and demoralization we have suffered  through our habitual, unskillful responses to craving. We can begin by  awareness of that craving, and learning to make different choices that  don’t trigger the craving. Sometimes awareness is enough; sometimes  that’s all the effort we can muster. As we learn more skillful responses  to our triggers, we gain space to have more compassion, lovingkindness,  generosity, and forgiveness. And as this practice becomes more of a habit,  equanimity and peacefulness begin to replace our habits of grasping and  selfishness. Pacing ourselves is important, alternating periods of activity  and rest. We need to be aware of what our mind, emotions, body, and  recovery can handle right now, and avoid the stress that can come from  pushing ourselves too far, too fast. We need to avoid those things that  put us into unskillful mind-states, and try to do things that return us to  a more easeful way of being in the present moment.
+### ID: p28-4
+Try to remember that whatever your experience is right now,  it will pass. Remind yourself that you don’t really know how long an  unpleasant or painful experience will last. Try to be open to recognizing  and investigating the experience while it is present, without interpreting it as a permanent part of your experience. Recognizing that the craving,  experience, or thought will pass makes it easier to avoid the impulse to  make an immediate, unskillful response. 
+
+## Chapter 28.1: INQUIRY OF WISE EFFORT:
+### ID: p28.1-1
+#### Class: inquirybullitt
+What efforts have you made to connect with a wise friend, mentor, or dharma buddy who can help you develop and balance your efforts? 
+### ID: p28.1-2
+#### Class: inquirybullitt
+Think of a situation that is causing you discomfort or unease. What is the nature of the effort you’re bringing to the situation? Pay attention to whether it feels balanced and sustainable, or if you’re leaning too far in the direction of either inactivity or overexertion? 
+### ID: p28.1-3
+#### Class: inquirybullitt
+Are you dealing with overwhelming desires, aversions, laziness or  discouragement, restlessness and worry, or doubt about your own  ability to recover? How do these hindrances affect the choices you’re making?
+### ID: p28.1-4
+#### Class: inquirybullitt
+Are you avoiding feelings by checking out and giving up, or through  obsessive busyness and perfectionism? 
+
+## Chapter 29: WISE MINDFULNESS:
+### ID: p29-1
+Mindfulness — being present to what’s going on in our minds,  bodies, hearts, and world — is central to the practice of the Eightfold  Path. We learn to be present for the way things are with compassion,  without judging them or ourselves. Mindfulness is being aware of what ever is present, noticing it, and letting it pass. It’s also remembering that  we’re on a path leading to our freedom and long-lasting happiness. 
+### ID: p29-2
+Mindfulness asks us to be aware and to investigate, without the  reactivity and grasping for control that leads to suffering. We learn to  stay attentive to what’s happening without having to either react to or  deny what’s happening. For many of us, our addictions prevented us  from being mindful. In fact, that was often the whole point: we used our  substances and behaviors to avoid feeling, to avoid being aware, because  being aware was painful. But by trying to avoid pain, we often creat ed more suffering. We’re now making a different choice — to sit with  the discomfort rather than pushing it away or trying to numb it. We  can learn to sit with the discomfort in different ways, either by bringing awareness to the physical sensations that affect our bodies or in a more  distant, non-attached way, such as naming the emotions while allowing  them to arise and cease. We’re choosing to respond to it with mindful  investigation and compassion, and to trust that it will pass if we let it.  We’re remembering that there’s another way to respond to the difficulties  of life. 
+### ID: p29-3
+Our minds can get lost in how we react to experiences. When  something happens, we almost immediately begin to create a story, plan,  or fantasy about it. We have a thought about an experience, that thought  leads to another, and on and on until we’re far from a real understanding of the experience itself. Mindfulness is noticing the experience in  that moment before we get lost in the judgment of the moment or the  stories we spin about it. Rather than blindly following our reactions and  responses to an experience, mindfulness allows us the space to choose to  respond skillfully and from a place of wisdom and morality. 
+### ID: p29-4
+Mindfulness encourages us to be open to and investigate the  painful experiences (and our habitual reactions to those experiences),  rather than to deny, ignore, suppress, or run from them. Most of us have  been conditioned to be our own harshest critic from early on, especially  during our fixations on substances and behaviors. We carry the shadow  of that judgment with us, even as we seek recovery, giving ourselves nega 
+tive feedback and scrutinizing every effort we make, holding ourselves to  impossible standards of perfection. Letting go of that inner critic allows  us to be mindful in the present of the efforts we are making, mindful of  the compassion and lovingkindness we’re learning to make a part of our  practice and our lives. Remember that we often talk way more harshly to  ourselves than we ever would to somebody else. It’s useful to notice when  we’re treating ourselves too harshly, and then shift attention to what we are doing well. We can acknowledge the negative thought, and then gen tly let it go. 
+### ID: p29-5
+Mindfulness practice is based on the Satipatthana Sutta, or the **four foundations of mindfulness**. The 1st foundation, **mindfulness of the body**, asks us to bring awareness, attention, or focus on our breath  and to bodily sensations. Meditations on the breath and body are focused on this awareness. The 2nd foundation is **mindfulness of feeling and feeling tones**. This practice involves noticing the emotional tone — pleasure or displeasure — that comes with every sensation, even when the  sensation is a thought. It also encourages us to notice when a sensation  is neither pleasant nor unpleasant but feels neutral. For example, we can  experience inhales and exhales by noticing where in our body we feel the breath most directly. The second foundation instructs us to notice those  sensations that are neutral, as well as those that are pleasant or unpleasant. 
+### ID: p29-6
+The third foundation, **mindfulness of the mind**, asks us to notice  when attachment — also known as greed or wanting — comes up, and  to be aware that attachment arises in the mind. We also learn to notice  when the mind is not attached to a particular thought or sensation. The  same practice of noticing applies when we become aware of aversion,  which we can experience as resistance or even hatred. When aversion isn’t present in the mind, we can notice that the mind is free from aversion. 
+### ID: p29-7
+In the fourth foundation of mindfulness, **mindfulness of dhammas**, we begin to simply notice when a thought arises, being aware of it  without judgment or evaluation, and allowing it to pass away without  holding onto it and without creating a story out of it. Training in the  fourth foundation lets us be aware of thoughts arising and passing away,  and realizing each will pass when we let go. 
+### ID: p29-8
+Two simple practices can make mindfulness a part of our daily lives. First, we can stop whatever we’re doing at any moment, and pay attention to the physical sensation of three in-breaths and three out breaths. This simple practice grounds our attention in what’s present  right now, rather than in the voices and critics we carry with us. Shift ing from the stories and judgments we constantly create during the day  to this simple grounding practice of three breaths gives us the space we sometimes need to return to mindfulness of the present moment.
+### ID: p29-9
+A second practice is to take time to inquire into the truthful ness of the negative or difficult messages we give ourselves. First, take  time to ask yourself whether the message is true. Second, ask how sure  you are that it’s true. Are you absolutely certain about what may seem like  an easy or automatic truth? Third, notice how you feel when you believe  the thought: Does it lead to fear, anger, sadness, desire? Finally, reflect on  who you’d be without the thought. How would you feel if you weren’t  caught up in the particular mindset or scenario you’re creating?
+
+
+## Chapter 29.1: INQUIRY OF WISE MINDFULNESS:
+### ID: p29.1-1
+#### Class: inquirybullitt
+What are steps you can take to support a regular meditation practice? 
+### ID: p29.1-2
+#### Class: inquirybullitt
+What are steps you can take to practice mindfulness throughout the  day by checking in with yourself about how you’re feeling, and pausing before reacting to situations? 
+### ID: p29.1-3
+#### Class: inquirybullitt
+What are steps you can take to sit with your discomfort instead of  running from it or running toward temporary pleasure? 
+## ID: p29.1-4
+#### Class: inquirybullitt
+What are steps you can take to question the “truths” that your mind tells you, rather than automatically believing them? Identify specific  instanceswhere your mind and perceptions “lied” to you about the  truth of a situation, and how being aware of that might have changed your reaction and led to a less harmful outcome.
+### ID: p29.1-5
+#### Class: inquirybullitt
+Think about times when you felt fear, doubt, or hesitation. Now, let  yourself become aware of their temporary nature. How might that  awareness have led to an outcome that was less harmful? 
+
+## Chapter 30: WISE CONCENTRATION:
+### ID: p30-1
+The final aspect of the Eightfold Path is Wise Concentration.  Meditation practice begins with concentrating on the breath, the body,  the emotional tone of the moment, and the processes of the mind, be cause these things exist in the present moment. If we focus on breath,  for example, we’re paying attention to the present moment because our  breathing is immediate: it’s happening right now. Breathing is a natural  process that doesn’t require judgment or interpretation, and so it eases  the mind from the need to react.
+### ID: p30-2
+The purpose of concentration is to train the mind to be focused  and undistracted. Most of us, early in meditation practice, are distracted  by things around us; like a noise outside the room, a pain or discomfort  in our bodies, our own worries or judgments of the experience, bore 
+dom or weariness, or thoughts and plans. These distractions can lead to  a feeling of unease or restlessness. This is perfectly normal. In our addic tions, we nurtured the habit of distracting ourselves and for many of us,  it became a survival technique. Concentration meditation gives us the  opportunity to meet this habit with kindness and patience rather than  resistance.
+### ID: p30-3
+Concentration, like the rest of the factors of the Eightfold Path,  is a practice. As with any practice, it takes time and effort to learn a new way to focus attention. In meditation, simply noting the distraction, accepting that it exists, and then refocusing our mind back to the object of concentration, is the practice. If we become focused on discomfort, thoughts, or plans, we need to first recognize that it’s happening, and  then become curious about it. Then we can make the choice to refocus —  to concentrate on the object of the meditation. Our habitual patterns can  seduce us into thinking we’re doing it wrong, into judging our practice, or into giving up. Don’t let them. When we observe what the mind is  telling us and react with compassion, knowing we have the power to  recognize it and refocus it, we strengthen our ability to concentrate. 
+### ID: p30-4
+Concentration can be especially helpful in times of craving. In stead of getting lost in the delusion that we must have what we’re craving,  we can trust that the craving is only temporary and refocus our attention  on our intention to act wisely. This may simply be the three-breath pause  mentioned earlier, or a more formal sitting meditation concentrating on  the breath. We can use concentration meditation to train our minds to  focus on a helpful thought in the midst of temporary discomfort and  the yearning for a quick fix. This may take the form of repeated phrases  to focus and clear the mind, such as metta, compassion, or equanimity  meditations. It could also take the form of prayer, chanting, a self-affirmation, a mantra, or another form of focused attention. Concentration  practices can often bring a sense of well-being and peace in a time of tur moil. They’re a healthy way to return to a balanced, resilient state when  we’re stressed or agitated. 
+### ID: p30-5
+Sometimes when cravings or unpleasant emotions are particular ly strong, moving the body can be the best way to help refocus our energy  and find relief. Concentration at those times may mean being focused  and mindful about each movement we are making: this is my foot taking  a step, this is my hand reaching for the cup. After a few minutes of concen tration practice, of not giving energy to our craving or obsession, we may  find the intensity of the feeling has passed. The more we do this, the more  we gain confidence that we have the power to relieve the suffering of our  addiction through following this path and committing to this practice.
+### ID: p30-6
+For trauma survivors, the breath, the heart, and the mind can be  potentially overwhelming places to place the attention. So if traditional  anchors like breath and body are challenging, ask yourself: What helps  you stay present? What helps to calm your nervous system? It might be  feeling the floor beneath you, or holding a stone, or looking at a piece  of art on the wall. All that you need to be present is to pay attention to  something happening right now. 
+### ID: p30-7
+If you feel powerful emotions begin to arise during meditation,  there are some simple things you can do to remain present. For example,  you can open your eyes rather than keeping them closed, or give yourself  permission to back off from the practice you are working on. Do whatever you need to do to take care of yourself should such a state arise, wheth er that is taking some deep breaths, putting a name on your experience  (such as “flashback”), or silently repeating some compassionate phrases to yourself. Learning to turn our attention back and forth between challenging sensations and our own supportive resources is a valuable skill  that professionals call titration. You can be gentle with your practice as  you are working to develop this skill. 
+
+## Chapter 30: INQUIRY OF WISE CONCENTRATION:
+### ID: p30.1-1
+#### Class: inquirybullitt
+In what ways do you get unfocused or distracted in meditation? 
+### ID: p30.1-2
+#### Class: inquirybullitt
+What are steps you can take to refocus your mind without judging your own practice? 
+### ID: p30.1-3
+#### Class: inquirybullitt
+Notice what value or learning you could gain by carefully and kindly  noticing where your mind has gone, or what has distracted you.
+### ID: p30.1-4
+#### Class: inquirybullitt
+What are steps you can take to use concentration to see clearly and  act wisely?
+### ID: p30.1-4
+#### Class: inquirybullitt
+What are steps you can take to be kind and gentle with yourself  through this process?

@@ -622,7 +622,7 @@ What substances and behaviors have you become reliant on to change or cloud your
 #### Class: inquirybullitt
 List ways you might practice the Five Precepts, compassion, lovingk indness, and generosity in your decision-making. 
 
-## Chapter 27: WISE LIVLIHOOD:
+## Chapter 27: WISE LIVELIHOOD:
 
 ### ID: p27-1
 The final factor in the ethical group is Wise Livelihood, which focuses on how we support ourselves in the world. Again, the intent is to avoid causing harm. For most of us, our work occupies so much of our time and attention, so how we choose to make a living takes on special importance. Understanding the principle of karma, and knowing that unethical activity gives rise to harmful karma, whatever choices or circumstances lead us to a particular job need to be recognized as having karmic consequences.
@@ -631,7 +631,7 @@ We try to avoid jobs that give rise to suffering and seek work that does no harm
 ### ID: p27-3
 Whatever our job is, we can practice it mindfully, with an in tention of non-harm, of easing suffering, and of compassion. This means developing an attitude toward our occupation beyond just the money we make. We can develop an approach of service and caring about the effects of our actions on others, both within and outside our workspaces. Wise Livelihood is not about judging ourselves or others for their choice of work or trying to limit their choices. Instead, we try to understand why and how we engage in whatever occupation we practice. Whatever work we do, we can maintain an intention of benefiting others. 
 
-## Chapter 27.1: INQUIRY OF WISE LIVLIHOOD:
+## Chapter 27.1: INQUIRY OF WISE LIVELIHOOD:
 ### ID: p27.1-1
 #### Class: inquirybullitt
 Does your job cause harm? What is the specific nature of that harm? 

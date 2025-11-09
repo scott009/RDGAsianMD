@@ -13,3 +13,6 @@ vx_config/
 *.backup
 *.old
 *_with_duplicates.md
+
+# Temporary and intermediate files
+tmp/

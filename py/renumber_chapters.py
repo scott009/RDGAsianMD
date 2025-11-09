@@ -92,7 +92,7 @@ def find_chapter_by_content(old_chapters, chapter_num):
 def main():
     # Load the JSON file
     print("Loading workmaster.json...")
-    with open('/home/scott/gitrepos/RDGAsianMD/workmaster.json', 'r', encoding='utf-8') as f:
+    with open('/home/scott/gitrepos/RDGAsianMD/workmasters/workmaster.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     # Find Section 5
@@ -162,7 +162,7 @@ def main():
     print(f"\nNew number of chapters: {len(new_chapters)}")
 
     # Save the updated JSON
-    output_file = '/home/scott/gitrepos/RDGAsianMD/workmaster_updated.json'
+    output_file = '/home/scott/gitrepos/RDGAsianMD/workmasters/workmaster_updated.json'
     print(f"\nSaving updated JSON to {output_file}...")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)

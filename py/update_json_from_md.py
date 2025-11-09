@@ -111,8 +111,8 @@ def update_json_chapter(json_chapter, md_chapter_data):
     json_chapter['sections'] = json_chapter['sections'][:1]
 
 def main():
-    md_file = 'sec5workmaster.md'
-    json_file = 'workmaster.json'
+    md_file = 'workmasters/sec5workmaster.md'
+    json_file = 'workmasters/workmaster.json'
 
     print("Parsing MD file...")
     md_chapters = parse_md_file(md_file)
@@ -166,7 +166,7 @@ def main():
     # Save updated JSON
     json_data['content'][section5_index] = section5
 
-    output_file = 'workmaster.json'
+    output_file = 'workmasters/workmaster.json'
     print(f"\nSaving updated JSON to {output_file}...")
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, indent=2, ensure_ascii=False)

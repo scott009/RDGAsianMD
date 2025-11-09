@@ -6,7 +6,7 @@ Script to fix duplicate paragraph IDs in the MD file by renumbering them sequent
 import re
 
 def main():
-    input_file = 'sec5workmaster.md'
+    input_file = 'workmasters/sec5workmaster.md'
 
     print("Reading sec5workmaster.md...")
     with open(input_file, 'r', encoding='utf-8') as f:

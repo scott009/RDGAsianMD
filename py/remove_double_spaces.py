@@ -12,7 +12,7 @@ def remove_double_spaces(text):
     return cleaned
 
 def main():
-    input_file = '/home/scott/gitrepos/RDGAsianMD/sec5workmaster.md'
+    input_file = '/home/scott/gitrepos/RDGAsianMD/workmasters/sec5workmaster.md'
 
     print("Reading sec5workmaster.md...")
     with open(input_file, 'r', encoding='utf-8') as f:

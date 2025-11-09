@@ -27,7 +27,7 @@ def get_chapter_type(chapter_id):
         return "narrative"
 
 def main():
-    json_file = 'workmaster.json'
+    json_file = 'workmasters/workmaster.json'
 
     print("Loading JSON file...")
     with open(json_file, 'r', encoding='utf-8') as f:

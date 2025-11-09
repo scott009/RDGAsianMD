@@ -1,0 +1,7 @@
+# VNote specific files
+*.vx
+_vnote.json
+_v_recycle_bin/
+_v_images/
+vx_notebook/
+vx_config/

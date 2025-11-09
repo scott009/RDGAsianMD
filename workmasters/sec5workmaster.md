@@ -560,7 +560,6 @@ We need to continually reflect on and question the intentions behind our actions
 
 ## Chapter 26.1: INQUIRY OF WISE ACTION:
 #### Class: inquirybullitt
-#### Class: inquiryheading
 
 ### ID: p26.1-1
 #### Class: inquirybullitt

@@ -62,4 +62,81 @@ a { color: var(--link); text-decoration: underline; }
 a:visited { color: var(--link-visited); }
 a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 
+/* Custom paragraph classes for Recovery Dharma content */
+
+/* Subtitle styling - prominent section subtitles */
+.subtitle {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: var(--fg);
+}
+
+/* Inquiry heading - section headers within inquiry chapters */
+.inquiryheading {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: var(--accent-border);
+}
+
+/* Bullet point list items */
+.bullitt {
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+  position: relative;
+  padding-left: 0.5rem;
+}
+
+.bullitt::before {
+  content: "•";
+  position: absolute;
+  left: -1rem;
+  color: var(--muted);
+}
+
+/* Inquiry bullet points - styled differently for inquiry sections */
+.inquirybullitt {
+  margin-left: 1.5rem;
+  margin-bottom: 0.75rem;
+  position: relative;
+  padding-left: 0.5rem;
+  font-style: italic;
+  color: var(--fg);
+}
+
+.inquirybullitt::before {
+  content: "◦";
+  position: absolute;
+  left: -1rem;
+  color: var(--accent-border);
+  font-size: 1.2rem;
+}
+
+/* Numbered list items */
+.numlist {
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+  counter-increment: numlist-counter;
+  position: relative;
+}
+
+/* Inquiry numbered list items */
+.inquirynumlist {
+  margin-left: 2rem;
+  margin-bottom: 0.75rem;
+  counter-increment: inquirynumlist-counter;
+  position: relative;
+  font-style: italic;
+  color: var(--fg);
+}
+
+/* Vertical spacing utility */
+.vspace1 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
 /* … keep all other definitions from ada1.css unchanged */

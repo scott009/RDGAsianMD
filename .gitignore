@@ -1,7 +1,15 @@
 # VNote specific files
 *.vx
 _vnote.json
+vx.json
 _v_recycle_bin/
 _v_images/
 vx_notebook/
 vx_config/
+
+# Backup files
+*_before_*.md
+*_before_*.json
+*.backup
+*.old
+*_with_duplicates.md

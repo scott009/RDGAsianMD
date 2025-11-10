@@ -67,55 +67,34 @@ The subsequent chapters discuss three aspects of the program — the “three je
 ### ID: p10-6
 At the end of each section are inquiries for self-exploration. These questions can be used as part of a formal process with a mentor, wise friend, or group; as tools to explore a specific life situation; as guides for a daily self-inquiry practice; or as meeting discussion topics. A wise friend or mentor can be of great help in deepening your understanding, and we encourage you to reach out to people you encounter at meetings.
 
-## Chapter 11: XIII
 
-### ID: p11-1
+### ID: p10-7
 Supportive friendships are an integral part of the practice. The questions may bring up shame, guilt, or sadness; or they may possibly activate trau ma. It could be beneficial to set up a self-care strategy ahead of time. The intent of the questions is to deepen our practice so we can experience more freedom, not to bring us more suffering.
 
-### ID: p11-2
-Our path is not a checklist, but rather a practice in which we choose where and how to invest our energy in a way that is both wise and compassionate toward ourselves and others. This journey involves meditation, meetings, and written inventories, all of which can improve our lives greatly. The practice of the Eightfold Path helps us develop in
+### ID: p10-8
+Our path is not a checklist, but rather a practice in which we choose where and how to invest our energy in a way that is both wise and compassionate toward ourselves and others. This journey involves meditation, meetings, and written inventories, all of which can improve our lives greatly. The practice of the Eightfold Path helps us develop insight and compassion as we begin to look into the causes and conditions that led to our own suffering with addiction. This path doesn’t have an end. There will continue to be suffering and challenges in life. This path offers a way to transform the suffering caused by our habitual reactions to these challenges, and an end to the illusion of escape we tried to find in substances or behaviors. It’s a way to break our chains with our own hands. It’s a path of deep freedom and refuge.
 
-### ID: p11-3
-sight and compassion as we begin to look into the causes and conditions that led to our own suffering with addiction. This path doesn’t have an end. There will continue to be suffering and challenges in life. This path offers a way to transform the suffering caused by our habitual reactions to these challenges, and an end to the illusion of escape we tried to find in substances or behaviors. It’s a way to break our chains with our own hands. It’s a path of deep freedom and refuge.
 
-### ID: p11-4
-XIV
+## Chapter 11: THE PRACTICE
 
-### I.
-
-## Chapter 11a: THE PRACTICE
-
-### THE Practice
-
-### ID: p11a-1
+### ID: p11-1
 Renunciation: We understand addiction to describe the overwhelming craving and compulsive use of substances or behaviors to escape pres ent-time reality, either by clinging to pleasure or running from pain. We commit to the intention of abstinence from alcohol and other addictive substances. For those of us recovering from process addictions, particu larly those for which complete abstinence is not possible, we also identify and commit to wise boundaries around our harmful behaviors, prefera bly with the help of a mentor or therapeutic professional.
 
-### ID: p11a-2
+### ID: p11-2
 Meditation: We commit to the intention of developing a daily medita tion practice. We use meditation as a tool to investigate our actions, in tentions, reactivity, and the nature of our mind. Meditation is a personal practice, and we commit to finding a balanced effort toward this and other healthy practices on the path.
 
-### ID: p11a-3
+### ID: p11-3
 Meetings: We attend recovery meetings whenever possible, in person and/or online, whether it be with Recovery Dharma, other Buddhist communities, or other recovery fellowships. In early recovery, it is rec ommended to attend a recovery meeting as often as possible. We also commit to becoming an active part of the community, offering our own experiences and service wherever possible.
 
-### ID: p11a-4
+### ID: p11-4
 The Path: We commit to deepening and broadening our understanding of the Four Noble Truths and to practicing the Eightfold Path in our daily lives.
 
-### ID: p11a-5
-Inquiry and Investigation: We explore the Four Noble Truths through writing and sharing in-depth, detailed inquiries. These can be worked on with the guidance of a mentor or therapist, in partnership with a trusted friend, or with a group. As we complete our written inquiries, we strive to hold ourselves accountable and take direct responsibility for our actions using wise intentions. This includes making amends for the harm we have caused in our past.
+### ID: p11-5
+**Inquiry and Investigation**: We explore the Four Noble Truths through writing and sharing in-depth, detailed inquiries. These can be worked on with the guidance of a mentor or therapist, in partnership with a trusted friend, or with a group. As we complete our written inquiries, we strive to hold ourselves accountable and take direct responsibility for our actions using wise intentions. This includes making amends for the harm we have caused in our past.
 
-### ID: p11a-6
-Sangha, Wise Friends, Mentors: We cultivate relationships within a recovery community, to support our own recovery and the recovery of others. After we have completed significant work on our inquiries, es tablished a meditation practice, and achieved renunciation from our ad-
+### ID: p11-6
+**Sangha, Wise Friends, Mentors:** We cultivate relationships within a recovery community, to support our own recovery and the recovery of others. After we have completed significant work on our inquiries, es tablished a meditation practice, and achieved renunciation from our addictive behaviors, we can become mentors to help others on their path to liberation from addiction. Anyone with any period of time of renun ciation and practice can be of service to others in their sangha. When mentors are not available, a group of wise friends can act as partners in self-inquiry and support each other’s practice.
 
-### ID: p11a-7
-XV
+### ID: p11-9
+**Growth:** We continue our study of Buddhist practices through reading, listening to Dharma talks, visiting and becoming members of recovery and spiritual sanghas, and attending meditation or retreats to enhance our understanding, wisdom, and practice. We undertake a lifelong journey of growth and awakening.
 
-### ID: p11a-8
-dictive behaviors, we can become mentors to help others on their path to liberation from addiction. Anyone with any period of time of renun ciation and practice can be of service to others in their sangha. When mentors are not available, a group of wise friends can act as partners in self-inquiry and support each other’s practice.
-
-### ID: p11a-9
-Growth: We continue our study of Buddhist practices through reading, listening to Dharma talks, visiting and becoming members of recovery and spiritual sanghas, and attending meditation or retreats to enhance our understanding, wisdom, and practice. We undertake a lifelong jour
-
-### ID: p11a-10
-ney of growth and awakening.
-
-### ID: p11a-11
-XVI

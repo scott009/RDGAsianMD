@@ -22,7 +22,7 @@ So many of us have hearts that are still in pain from the suffering we’ve expe
 We start to recover when we let ourselves believe in and rediscover our pure, radiant, and courageous heart where we find our potential for awakening resides. Who were we before the world got to us? Who are we beyond the obsession of our conditioned minds? Who are we beneath all our walls and heartbreak? Despite the trauma, addiction, fear, and shame, there is a still and centered part of us that remains whole. There is a part of us that’s not traumatized, that’s not addicted, that’s not ruled by fear or shame. This is where wisdom comes from, and it’s the foundation of our recovery.
 
 ### ID: p12-8
-If you’re at the beginning of your recovery journey, it may seem impossible to access this part of you. But you’re here because you already have. Perhaps you felt some small glimmer of hope — maybe born out of desperation — that there might be a way out, that things could change if you took wise action and reached out for help. Maybe it feels impossible to have faith in this part of you, to believe that you have the potential to be capable of wisdom and kindness and ethical deeds, to believe you can be the source of your own healing and awakening. Recovery is a gradual process. This path is a lifetime of individual steps. It’s not only the Bud dha’s example that shows us the way, but also those before us who have gone through the process of recovery and made it to the other side.
+If you’re at the beginning of your recovery journey, it may seem impossible to access this part of you. But you’re here because you already have. Perhaps you felt some small glimmer of hope — maybe born out of desperation — that there might be a way out, that things could change if you took wise action and reached out for help. Maybe it feels impossible to have faith in this part of you, to believe that you have the potential to be capable of wisdom and kindness and ethical deeds, to believe you can be the source of your own healing and awakening. Recovery is a gradual process. This path is a lifetime of individual steps. It’s not only the Buddha’s example that shows us the way, but also those before us who have gone through the process of recovery and made it to the other side.
 They show us that we can, too.
 
 
@@ -30,28 +30,28 @@ They show us that we can, too.
 So what does the Buddha have to do with recovery?
 
 ### ID: p12-12
-There are two ways in which we use the word Buddha, which means “awakened.” First, it is the title given to Siddhartha Gautama, a prince who lived in modern-day Nepal and India roughly 2,500 years ago. After many years of scholarly study, meditation, and ethical practice, he was awakened to the nature of human suffering and discovered a path that leads to the end of suffering, and the freedom that comes from awakening. After his awakening, Siddhartha came to be known as the Buddha. The second use of the word Buddha follows from the first. Bud dha can refer, not only to the historical figure but also to the idea of awakening: the fact that each of us has within ourselves the potential to awaken to the same understanding as the original Buddha. When we take refuge in the Buddha, we take refuge not in Siddhartha as a person, but in the fact that he was able to find freedom from his suffering and so can we.
+There are two ways in which we use the word Buddha, which means “awakened.” First, it is the title given to Siddhartha Gautama, a prince who lived in modern-day Nepal and India roughly 2,500 years ago. After many years of scholarly study, meditation, and ethical practice, he was awakened to the nature of human suffering and discovered a path that leads to the end of suffering, and the freedom that comes from awakening. After his awakening, Siddhartha came to be known as the Buddha. The second use of the word Buddha follows from the first. Buddha can refer, not only to the historical figure but also to the idea of awakening: the fact that each of us has within ourselves the potential to awaken to the same understanding as the original Buddha. When we take refuge in the Buddha, we take refuge not in Siddhartha as a person, but in the fact that he was able to find freedom from his suffering and so can we.
 
 ## Chapter 13: THE STORY OF THE ORIGINAL BUDDHA
 
 ### ID: p13-1
-To understand the nature of this awakening it could help to know something about the life of Siddhartha Gautama. One of the many versions of the story of the Buddha tells us that Siddhartha was a wealthy prince, born into privilege, and sheltered from much of the suffering of the world. The story goes that young Siddhartha sneaked away from his palace and saw people suffering from old age, sick ness, and death. He realized that no amount of privilege could protect him from this suffering. Wealth wouldn’t prevent it. Comfort wouldn’t prevent it. Pleasure wouldn’t prevent it. Despite having a life of ease, Sid dhartha still found that he experienced suffering and dissatisfaction. He was born with everything, but it wasn’t enough.
+To understand the nature of this awakening it could help to know something about the life of Siddhartha Gautama. One of the many versions of the story of the Buddha tells us that Siddhartha was a wealthy prince, born into privilege, and sheltered from much of the suffering of the world. The story goes that young Siddhartha sneaked away from his palace and saw people suffering from old age, sickness, and death. He realized that no amount of privilege could protect him from this suffering. Wealth wouldn’t prevent it. Comfort wouldn’t prevent it. Pleasure wouldn’t prevent it. Despite having a life of ease, Sid dhartha still found that he experienced suffering and dissatisfaction. He was born with everything, but it wasn’t enough.
 
 ### ID: p13-2
-This persistent dissatisfaction with life, whether dramatic or subtle, is called dukkha, a Pali word we still use today. All humans ex perience dukkha, but some of us — particularly those of us who have struggled with addiction — seem to experience it on a more intense level, and with worse consequences.
+This persistent dissatisfaction with life, whether dramatic or subtle, is called dukkha, a Pali word we still use today. All humans experience dukkha, but some of us — particularly those of us who have struggled with addiction — seem to experience it on a more intense level, and with worse consequences.
 
 ### ID: p13-3
 What is addiction but the consistent and nagging feeling of “not enough?” What is addiction other than being constantly unsatisfied? 
 
 ### ID: p13-4
-Siddhartha saw that pain was an unavoidable part of life, and he became determined to find a way to put an end to it. He left his family and for a time, lived the life of an ascetic — the extreme opposite to his previous life of comfort and wealth. As an ascetic, he sat in extremely un comfortable postures meditating for long periods of time. He slept very
-little. He ate very little. He even tried breathing very little. He thought that, since material comfort hadn’t eliminated suffering, maybe the oppo site of material comfort would. At the brink of death, Siddhartha aban doned the idea of extreme asceticism and instead chose what he called “the middle path.”
+Siddhartha saw that pain was an unavoidable part of life, and he became determined to find a way to put an end to it. He left his family and for a time, lived the life of an ascetic — the extreme opposite to his previous life of comfort and wealth. As an ascetic, he sat in extremely uncomfortable postures meditating for long periods of time. He slept very
+little. He ate very little. He even tried breathing very little. He thought that, since material comfort hadn’t eliminated suffering, maybe the opposite of material comfort would. At the brink of death, Siddhartha abandoned the idea of extreme asceticism and instead chose what he called “the middle path.”
 
 ### ID: p13-6
 Siddhartha realized that both the extremes of pleasure and denial of pleasure had brought him nowhere nearer to liberation. Neither extreme had given relief from his suffering. So he set off on his own to meditate. Sitting beneath a Bodhi tree, he meditated deeply and discovered the path that leads to the end of suffering. He looked within himself for his own liberation, and he found it.
 
 ### ID: p13-7
-What Siddhartha understood as he meditated under the Bodhi tree is known as the **Dharma**, or the “Truth,” which explains the causes and nature of cyclical suffering. It’s the basis of the teachings of Bud dhism. Central to this path are the Four Noble Truths and the Eightfold Path, which will be explained in the next chapter.
+What Siddhartha understood as he meditated under the Bodhi tree is known as the **Dharma**, or the “Truth,” which explains the causes and nature of cyclical suffering. It’s the basis of the teachings of Buddhism. Central to this path are the Four Noble Truths and the Eightfold Path, which will be explained in the next chapter.
 
 ### ID: p13-8
 Siddhartha was called the Buddha, or “The One Who Woke Up,” because most people go through life with a false sense of reality, like being in a trance. The Buddha spent the rest of his life developing the Dharma into a simple but sophisticated system. He shared it with anyone who would listen, dedicating himself to a life of service to free everybody from suffering. He defied the norms of his time by letting women and the poorest class of citizens become monastics. Everyone was welcome in his sangha, his spiritual community. Central to his teachings was the idea that liberation is available to all — to the most broken and oppressed among us, to the sick, to the powerless, to those who have lost everything, to those who have nothing left to lose. All of us, even the most addicted, the most lost, can find our way to awakening, because we all have the ability to access the pure, wise, and true nature within each of us.
@@ -63,7 +63,7 @@ The story of the Buddha may seem far removed from our every day reality, but his
 
 ### ID: p14-4
 At this point most of our stories start to look different from Siddhartha’s, and this difference is what led us here. Instead of sitting with our suffering, we found ways to change it, avoid it, or replace it with something more pleasurable. For some of us, that came in the form of drinking or using drugs. Others used sex, relationships, food, 
-self-harming, technology, work, or gambling. And some of our stories contain a version of “all of the above.” Whatever the behavior, it was just a tempo rary solution that always led to deeper suffering for ourselves and others.
+self-harming, technology, work, or gambling. And some of our stories contain a version of “all of the above.” Whatever the behavior, it was just a temporary solution that always led to deeper suffering for ourselves and others.
 
 ### ID: p14-6
 We’ve come to realize that our stories don’t have to continue like this. The life of Siddhartha, and the lives of the countless people we meet in recovery who have found an end to the suffering of addiction, prove to us that there is another way.
@@ -85,13 +85,13 @@ As people who have struggled with addiction, we’re already inti mately familia
 It can be incredibly liberating to hear this said so plainly and directly. No one is trying to convince or convert us. No one is telling us we have to believe something. No one is sugarcoating our experience.
 
 ### ID: p15-4
-The Buddha also taught the way to free ourselves from this suf fering. When the Buddha awakened, he understood how samsāra, or the cycle of existence, came to be and how it is maintained. The heart of these teachings (which we call the Dharma) is the Four Noble Truths. These four truths, and the corresponding commitments, are the foundation of our program:
+The Buddha also taught the way to free ourselves from this suffering. When the Buddha awakened, he understood how samsāra, or the cycle of existence, came to be and how it is maintained. The heart of these teachings (which we call the Dharma) is the Four Noble Truths. These four truths, and the corresponding commitments, are the foundation of our program:
 
 ### ID: p15-5
-1. There is suffering. We committ to understanding the truth of suffering
-2.  There is a cause of suffering. We committ to understanding that craving craving leads to suffering
+1. There is suffering. We commit to understanding the truth of suffering
+2.  There is a cause of suffering. We commit to understanding that craving craving leads to suffering
 3.  There is a way to end suffering. We commit to understanding the less craving leads to less suffering. T
-4.  here is a path that leads to the end of suffering. We committ to cultivating the path.
+4.  here is a path that leads to the end of suffering. We commit to cultivating the path.
 
 ### ID: p15-6
 Like a map that shows us the path, these truths help us find our way in recovery.
@@ -150,7 +150,7 @@ Trauma and attachment injury can impact our recovery and meditation practice in 
 Attachment injury may show up as a hesitation to trust people or a process, as a reluctance to be part of a recovery group or sangha, or as a core belief that we don’t belong. In this case, the nurturing thing to do for ourselves might be to lean into this discomfort, compassionately engage, and investigate the stories we’re telling ourselves about not belonging. Again, it’s key to become aware of the nature of the harm we carry with us. Trauma and attachment injury may require different ways of feeling safe and supported. You should always do whatever is most compassionate for yourself in the moment, and seek outside help when you need it.
 
 ### ID: p17-8
-Trauma and attachment issues are relevant to suffering and ad diction because they can have a huge impact on our mental and physical health. Studies show that those who struggle with addiction have often experienced trauma at some point in their lives. What we try and use to make us feel better, whether it’s substances or behaviors, often only reinforces the cycle of aversion and craving that will lead to more suf fering. The brain can be overactive when trauma is present because it perceives a very real threat, and the body often responds with feelings of helplessness, fear, and vulnerability. This system can be easily thrown into overdrive when one’s life experience screams: “You’re not safe! Danger! Danger!” Even when the danger is no longer present.
+Trauma and attachment issues are relevant to suffering and ad diction because they can have a huge impact on our mental and physical health. Studies show that those who struggle with addiction have often experienced trauma at some point in their lives. What we try and use to make us feel better, whether it’s substances or behaviors, often only reinforces the cycle of aversion and craving that will lead to more suffering. The brain can be overactive when trauma is present because it perceives a very real threat, and the body often responds with feelings of helplessness, fear, and vulnerability. This system can be easily thrown into overdrive when one’s life experience screams: “You’re not safe! Danger! Danger!” Even when the danger is no longer present.
 
 ### ID: p17-9
 For some people, post-traumatic symptoms may be increasingly severe and last long after the original events have ended. Many of us have intrusive thoughts that seem to come out of the blue, or we feel confusion or mood swings we can’t link to specific events. Traumatic responses may lead us to avoid activities or places that trigger memories of the event. We can become socially isolated and withdrawn, and lose interest in things we used to enjoy. Post-Traumatic Stress Disorder (PTSD) may cause us to be easily startled, edgy, have impaired function during sex or other activities, or unusually alert to potential danger.
@@ -162,7 +162,7 @@ Overwhelming fear, anxiety, detachment and isolation, shame, and anger may becom
 Race-based trauma, as well as trauma from any experience of discrimination or bigotry, can accumulate over a lifetime. When these incidents are considered separately, they might appear manageable, but when experienced cumulatively, they can become extremely difficult to cope with. The distress, fear, and physical body responses that may arise from this kind of trauma often overlap with the symptoms of PTSD.
 
 ### ID: p17-13
-Trauma and attachment injury can lead to the fear, anger, anx iety, guilt, and loneliness that are common responses to various life ex periences. But, at a deeper level, trauma makes it harder for us to cope in general, to form healthy or safe relationships, to develop an identity in the world, or to defend ourselves. No two of us will react to the same experience in the same way, but this truth points to the fact that certain past experiences can affect our responses later in life. This is key to under standing dukkha, and to meeting our experience with wise-boundaries, compassion, kindness, and courage rather than judgment (for others and ourselves), which is an essential part of recovery.
+Trauma and attachment injury can lead to the fear, anger, anx iety, guilt, and loneliness that are common responses to various life experiences. But, at a deeper level, trauma makes it harder for us to cope in general, to form healthy or safe relationships, to develop an identity in the world, or to defend ourselves. No two of us will react to the same experience in the same way, but this truth points to the fact that certain past experiences can affect our responses later in life. This is key to under standing dukkha, and to meeting our experience with wise-boundaries, compassion, kindness, and courage rather than judgment (for others and ourselves), which is an essential part of recovery.
 
 ### ID: p17-14
 Many of us turned to addictive substances and behaviors as a way to cope with our trauma. Sometimes running from the pain of our experiences by way of our addictions was itself a survival technique from feeling that we wouldn’t be able to live through the pain of our memories. While this may have provided some temporary relief, it did nothing to actually heal the pain of our trauma, and often led to even more pain.
@@ -238,7 +238,7 @@ If you have experienced discrimation-based trauma or social injus tice, how can 
 Ending the Suffering
 
 ### ID: p20-2
-It is possible to end our suffering. When we come to understand the nature of our craving and realize that all our experiences are tempo rary by nature, we can begin a more skillful way to live with the dissat isfaction that is part of being human. We don’t need to be torn apart by our thoughts and feelings that say, “I have to have more of that,” or “I’ll do anything to get rid of this.” The Third Noble Truth states that the end of craving is possible. Each of us has the capacity for recovery.
+It is possible to end our suffering. When we come to understand the nature of our craving and realize that all our experiences are temporary by nature, we can begin a more skillful way to live with the dissat isfaction that is part of being human. We don’t need to be torn apart by our thoughts and feelings that say, “I have to have more of that,” or “I’ll do anything to get rid of this.” The Third Noble Truth states that the end of craving is possible. Each of us has the capacity for recovery.
 
 ### ID: p20-3
 We are responsible for our own actions and for the energy we give our thoughts and feelings. This means we have some control over how we respond to our own suffering, because the unpleasant emotions take place within us; we create them through our response to experience. We don’t need to depend on anyone or anything else to remove the causes of our suffering. We may not be able to control anything “out there,” but we can learn to choose what we think, say, and do. We come to under stand that if our thoughts, words, and actions are driven by greed, hatred, or confusion, we are creating suffering within suffering. If we let go of these attitudes, we can lessen suffering or even create freedom. We can choose to give up these causes of disturbing and unpleasant emotions. This is the true empowerment and freedom of recovery — recognizing that happiness and suffering are up to us, based on how we choose to respond to our experiences.
@@ -328,7 +328,7 @@ What does it mean to you to take refuge in the Buddha, the Dharma,  and the Sang
 
 ## Chapter 22: THE EIGHTFOLD PATH:
 ### ID: p22-1
-We’ve found that it’s useful to make inquiry and investigation a normal part of our everyday routine, especially when we’re feeling un comfortable emotions or facing tough decisions. We can take a moment to pause and sit with what we’re experiencing, identify it, and simply allow it to be, with compassion and without judgment. Then use the Eightfold Path as a guide to go inward and forward by asking ourselves: “How can I apply the Eightfold Path?” It can also be beneficial to use the different sections of the Eightfold Path as an end-of-day reflection.
+We’ve found that it’s useful to make inquiry and investigation a normal part of our everyday routine, especially when we’re feeling uncomfortable emotions or facing tough decisions. We can take a moment to pause and sit with what we’re experiencing, identify it, and simply allow it to be, with compassion and without judgment. Then use the Eightfold Path as a guide to go inward and forward by asking ourselves: “How can I apply the Eightfold Path?” It can also be beneficial to use the different sections of the Eightfold Path as an end-of-day reflection.
 ## Chapter 23: WISE UNDERSTANDING:
 ### ID: p23-1
 As we engage in the world, rather than withdraw from it, we can use Wise Understanding to live without clinging, attachment, or craving. By paying attention to our actions and the results of those actions, we can begin to change where our choices are leading. If we intend to act in ways that have positive results, and if we’re aware of the true intention and the nature of our actions, then we’ll see better results — better meaning less suffering and less harm.
@@ -623,7 +623,7 @@ What substances and behaviors have you become reliant on to  change or cloud you
 #### Class: inquirybullitt
 List ways you might practice the Five Precepts, compassion, lovingk indness, and generosity in your decision-making. 
 
-## Chapter 27: WISE LIVLIHOOD:
+## Chapter 27: WISE LIVELIHOOD:
 
 ### ID: p27-1
 The final factor in the ethical group is Wise Livelihood, which  focuses on how we support ourselves in the world. Again, the intent is  to avoid causing harm. For most of us, our work occupies so much of  our time and attention, so how we choose to make a living takes on  special importance. Understanding the principle of karma, and knowing  that unethical activity gives rise to harmful karma, whatever choices or  circumstances lead us to a particular job need to be recognized as having  karmic consequences.
@@ -632,7 +632,7 @@ We try to avoid jobs that give rise to suffering and seek work  that does no har
 ### ID: p27-3
 Whatever our job is, we can practice it mindfully, with an in tention of non-harm, of easing suffering, and of compassion. This means  developing an attitude toward our occupation beyond just the money we  make. We can develop an approach of service and caring about the effects  of our actions on others, both within and outside our workspaces. Wise  Livelihood is not about judging ourselves or others for their choice of  work or trying to limit their choices. Instead, we try to understand why  and how we engage in whatever occupation we practice. Whatever work  we do, we can maintain an intention of benefiting others. 
 
-## Chapter 27.1: INQUIRY OF WISE LIVLIHOOD:
+## Chapter 27.1: INQUIRY OF WISE LIVELIHOOD:
 ### ID: p27.1-1
 #### Class: inquirybullitt
 Does your job cause harm? What is the specific nature of that harm? 
@@ -769,7 +769,7 @@ So many of us have hearts that are still in pain from the suffering we’ve expe
 We start to recover when we let ourselves believe in and rediscover our pure, radiant, and courageous heart where we find our potential for awakening resides. Who were we before the world got to us? Who are we beyond the obsession of our conditioned minds? Who are we beneath all our walls and heartbreak? Despite the trauma, addiction, fear, and shame, there is a still and centered part of us that remains whole. There is a part of us that’s not traumatized, that’s not addicted, that’s not ruled by fear or shame. This is where wisdom comes from, and it’s the foundation of our recovery.
 
 ### ID: p12-8
-If you’re at the beginning of your recovery journey, it may seem impossible to access this part of you. But you’re here because you already have. Perhaps you felt some small glimmer of hope — maybe born out of desperation — that there might be a way out, that things could change if you took wise action and reached out for help. Maybe it feels impossible to have faith in this part of you, to believe that you have the potential to be capable of wisdom and kindness and ethical deeds, to believe you can be the source of your own healing and awakening. Recovery is a gradual process. This path is a lifetime of individual steps. It’s not only the Bud dha’s example that shows us the way, but also those before us who have gone through the process of recovery and made it to the other side.
+If you’re at the beginning of your recovery journey, it may seem impossible to access this part of you. But you’re here because you already have. Perhaps you felt some small glimmer of hope — maybe born out of desperation — that there might be a way out, that things could change if you took wise action and reached out for help. Maybe it feels impossible to have faith in this part of you, to believe that you have the potential to be capable of wisdom and kindness and ethical deeds, to believe you can be the source of your own healing and awakening. Recovery is a gradual process. This path is a lifetime of individual steps. It’s not only the Buddha’s example that shows us the way, but also those before us who have gone through the process of recovery and made it to the other side.
 They show us that we can, too.
 
 
@@ -777,28 +777,28 @@ They show us that we can, too.
 So what does the Buddha have to do with recovery?
 
 ### ID: p12-12
-There are two ways in which we use the word Buddha, which means “awakened.” First, it is the title given to Siddhartha Gautama, a prince who lived in modern-day Nepal and India roughly 2,500 years ago. After many years of scholarly study, meditation, and ethical practice, he was awakened to the nature of human suffering and discovered a path that leads to the end of suffering, and the freedom that comes from awakening. After his awakening, Siddhartha came to be known as the Buddha. The second use of the word Buddha follows from the first. Bud dha can refer, not only to the historical figure but also to the idea of awakening: the fact that each of us has within ourselves the potential to awaken to the same understanding as the original Buddha. When we take refuge in the Buddha, we take refuge not in Siddhartha as a person, but in the fact that he was able to find freedom from his suffering and so can we.
+There are two ways in which we use the word Buddha, which means “awakened.” First, it is the title given to Siddhartha Gautama, a prince who lived in modern-day Nepal and India roughly 2,500 years ago. After many years of scholarly study, meditation, and ethical practice, he was awakened to the nature of human suffering and discovered a path that leads to the end of suffering, and the freedom that comes from awakening. After his awakening, Siddhartha came to be known as the Buddha. The second use of the word Buddha follows from the first. Buddha can refer, not only to the historical figure but also to the idea of awakening: the fact that each of us has within ourselves the potential to awaken to the same understanding as the original Buddha. When we take refuge in the Buddha, we take refuge not in Siddhartha as a person, but in the fact that he was able to find freedom from his suffering and so can we.
 
 ## Chapter 13: THE STORY OF THE ORIGINAL BUDDHA
 
 ### ID: p13-1
-To understand the nature of this awakening it could help to know something about the life of Siddhartha Gautama. One of the many versions of the story of the Buddha tells us that Siddhartha was a wealthy prince, born into privilege, and sheltered from much of the suffering of the world. The story goes that young Siddhartha sneaked away from his palace and saw people suffering from old age, sick ness, and death. He realized that no amount of privilege could protect him from this suffering. Wealth wouldn’t prevent it. Comfort wouldn’t prevent it. Pleasure wouldn’t prevent it. Despite having a life of ease, Sid dhartha still found that he experienced suffering and dissatisfaction. He was born with everything, but it wasn’t enough.
+To understand the nature of this awakening it could help to know something about the life of Siddhartha Gautama. One of the many versions of the story of the Buddha tells us that Siddhartha was a wealthy prince, born into privilege, and sheltered from much of the suffering of the world. The story goes that young Siddhartha sneaked away from his palace and saw people suffering from old age, sickness, and death. He realized that no amount of privilege could protect him from this suffering. Wealth wouldn’t prevent it. Comfort wouldn’t prevent it. Pleasure wouldn’t prevent it. Despite having a life of ease, Sid dhartha still found that he experienced suffering and dissatisfaction. He was born with everything, but it wasn’t enough.
 
 ### ID: p13-2
-This persistent dissatisfaction with life, whether dramatic or subtle, is called dukkha, a Pali word we still use today. All humans ex perience dukkha, but some of us — particularly those of us who have struggled with addiction — seem to experience it on a more intense level, and with worse consequences.
+This persistent dissatisfaction with life, whether dramatic or subtle, is called dukkha, a Pali word we still use today. All humans experience dukkha, but some of us — particularly those of us who have struggled with addiction — seem to experience it on a more intense level, and with worse consequences.
 
 ### ID: p13-3
 What is addiction but the consistent and nagging feeling of “not enough?” What is addiction other than being constantly unsatisfied? 
 
 ### ID: p13-4
-Siddhartha saw that pain was an unavoidable part of life, and he became determined to find a way to put an end to it. He left his family and for a time, lived the life of an ascetic — the extreme opposite to his previous life of comfort and wealth. As an ascetic, he sat in extremely un comfortable postures meditating for long periods of time. He slept very
-little. He ate very little. He even tried breathing very little. He thought that, since material comfort hadn’t eliminated suffering, maybe the oppo site of material comfort would. At the brink of death, Siddhartha aban doned the idea of extreme asceticism and instead chose what he called “the middle path.”
+Siddhartha saw that pain was an unavoidable part of life, and he became determined to find a way to put an end to it. He left his family and for a time, lived the life of an ascetic — the extreme opposite to his previous life of comfort and wealth. As an ascetic, he sat in extremely uncomfortable postures meditating for long periods of time. He slept very
+little. He ate very little. He even tried breathing very little. He thought that, since material comfort hadn’t eliminated suffering, maybe the opposite of material comfort would. At the brink of death, Siddhartha abandoned the idea of extreme asceticism and instead chose what he called “the middle path.”
 
 ### ID: p13-6
 Siddhartha realized that both the extremes of pleasure and denial of pleasure had brought him nowhere nearer to liberation. Neither extreme had given relief from his suffering. So he set off on his own to meditate. Sitting beneath a Bodhi tree, he meditated deeply and discovered the path that leads to the end of suffering. He looked within himself for his own liberation, and he found it.
 
 ### ID: p13-7
-What Siddhartha understood as he meditated under the Bodhi tree is known as the **Dharma**, or the “Truth,” which explains the causes and nature of cyclical suffering. It’s the basis of the teachings of Bud dhism. Central to this path are the Four Noble Truths and the Eightfold Path, which will be explained in the next chapter.
+What Siddhartha understood as he meditated under the Bodhi tree is known as the **Dharma**, or the “Truth,” which explains the causes and nature of cyclical suffering. It’s the basis of the teachings of Buddhism. Central to this path are the Four Noble Truths and the Eightfold Path, which will be explained in the next chapter.
 
 ### ID: p13-8
 Siddhartha was called the Buddha, or “The One Who Woke Up,” because most people go through life with a false sense of reality, like being in a trance. The Buddha spent the rest of his life developing the Dharma into a simple but sophisticated system. He shared it with anyone who would listen, dedicating himself to a life of service to free everybody from suffering. He defied the norms of his time by letting women and the poorest class of citizens become monastics. Everyone was welcome in his sangha, his spiritual community. Central to his teachings was the idea that liberation is available to all — to the most broken and oppressed among us, to the sick, to the powerless, to those who have lost everything, to those who have nothing left to lose. All of us, even the most addicted, the most lost, can find our way to awakening, because we all have the ability to access the pure, wise, and true nature within each of us.
@@ -810,7 +810,7 @@ The story of the Buddha may seem far removed from our every day reality, but his
 
 ### ID: p14-4
 At this point most of our stories start to look different from Siddhartha’s, and this difference is what led us here. Instead of sitting with our suffering, we found ways to change it, avoid it, or replace it with something more pleasurable. For some of us, that came in the form of drinking or using drugs. Others used sex, relationships, food, 
-self-harming, technology, work, or gambling. And some of our stories contain a version of “all of the above.” Whatever the behavior, it was just a tempo rary solution that always led to deeper suffering for ourselves and others.
+self-harming, technology, work, or gambling. And some of our stories contain a version of “all of the above.” Whatever the behavior, it was just a temporary solution that always led to deeper suffering for ourselves and others.
 
 ### ID: p14-6
 We’ve come to realize that our stories don’t have to continue like this. The life of Siddhartha, and the lives of the countless people we meet in recovery who have found an end to the suffering of addiction, prove to us that there is another way.
@@ -832,13 +832,13 @@ As people who have struggled with addiction, we’re already inti mately familia
 It can be incredibly liberating to hear this said so plainly and directly. No one is trying to convince or convert us. No one is telling us we have to believe something. No one is sugarcoating our experience.
 
 ### ID: p15-4
-The Buddha also taught the way to free ourselves from this suf fering. When the Buddha awakened, he understood how samsāra, or the cycle of existence, came to be and how it is maintained. The heart of these teachings (which we call the Dharma) is the Four Noble Truths. These four truths, and the corresponding commitments, are the foundation of our program:
+The Buddha also taught the way to free ourselves from this suffering. When the Buddha awakened, he understood how samsāra, or the cycle of existence, came to be and how it is maintained. The heart of these teachings (which we call the Dharma) is the Four Noble Truths. These four truths, and the corresponding commitments, are the foundation of our program:
 
 ### ID: p15-5
-1. There is suffering. We committ to understanding the truth of suffering
-2.  There is a cause of suffering. We committ to understanding that craving craving leads to suffering
+1. There is suffering. We commit to understanding the truth of suffering
+2.  There is a cause of suffering. We commit to understanding that craving craving leads to suffering
 3.  There is a way to end suffering. We commit to understanding the less craving leads to less suffering. T
-4.  here is a path that leads to the end of suffering. We committ to cultivating the path.
+4.  here is a path that leads to the end of suffering. We commit to cultivating the path.
 
 ### ID: p15-6
 Like a map that shows us the path, these truths help us find our way in recovery.
@@ -897,7 +897,7 @@ Trauma and attachment injury can impact our recovery and meditation practice in 
 Attachment injury may show up as a hesitation to trust people or a process, as a reluctance to be part of a recovery group or sangha, or as a core belief that we don’t belong. In this case, the nurturing thing to do for ourselves might be to lean into this discomfort, compassionately engage, and investigate the stories we’re telling ourselves about not belonging. Again, it’s key to become aware of the nature of the harm we carry with us. Trauma and attachment injury may require different ways of feeling safe and supported. You should always do whatever is most compassionate for yourself in the moment, and seek outside help when you need it.
 
 ### ID: p17-8
-Trauma and attachment issues are relevant to suffering and ad diction because they can have a huge impact on our mental and physical health. Studies show that those who struggle with addiction have often experienced trauma at some point in their lives. What we try and use to make us feel better, whether it’s substances or behaviors, often only reinforces the cycle of aversion and craving that will lead to more suf fering. The brain can be overactive when trauma is present because it perceives a very real threat, and the body often responds with feelings of helplessness, fear, and vulnerability. This system can be easily thrown into overdrive when one’s life experience screams: “You’re not safe! Danger! Danger!” Even when the danger is no longer present.
+Trauma and attachment issues are relevant to suffering and ad diction because they can have a huge impact on our mental and physical health. Studies show that those who struggle with addiction have often experienced trauma at some point in their lives. What we try and use to make us feel better, whether it’s substances or behaviors, often only reinforces the cycle of aversion and craving that will lead to more suffering. The brain can be overactive when trauma is present because it perceives a very real threat, and the body often responds with feelings of helplessness, fear, and vulnerability. This system can be easily thrown into overdrive when one’s life experience screams: “You’re not safe! Danger! Danger!” Even when the danger is no longer present.
 
 ### ID: p17-9
 For some people, post-traumatic symptoms may be increasingly severe and last long after the original events have ended. Many of us have intrusive thoughts that seem to come out of the blue, or we feel confusion or mood swings we can’t link to specific events. Traumatic responses may lead us to avoid activities or places that trigger memories of the event. We can become socially isolated and withdrawn, and lose interest in things we used to enjoy. Post-Traumatic Stress Disorder (PTSD) may cause us to be easily startled, edgy, have impaired function during sex or other activities, or unusually alert to potential danger.
@@ -909,7 +909,7 @@ Overwhelming fear, anxiety, detachment and isolation, shame, and anger may becom
 Race-based trauma, as well as trauma from any experience of discrimination or bigotry, can accumulate over a lifetime. When these incidents are considered separately, they might appear manageable, but when experienced cumulatively, they can become extremely difficult to cope with. The distress, fear, and physical body responses that may arise from this kind of trauma often overlap with the symptoms of PTSD.
 
 ### ID: p17-13
-Trauma and attachment injury can lead to the fear, anger, anx iety, guilt, and loneliness that are common responses to various life ex periences. But, at a deeper level, trauma makes it harder for us to cope in general, to form healthy or safe relationships, to develop an identity in the world, or to defend ourselves. No two of us will react to the same experience in the same way, but this truth points to the fact that certain past experiences can affect our responses later in life. This is key to under standing dukkha, and to meeting our experience with wise-boundaries, compassion, kindness, and courage rather than judgment (for others and ourselves), which is an essential part of recovery.
+Trauma and attachment injury can lead to the fear, anger, anx iety, guilt, and loneliness that are common responses to various life experiences. But, at a deeper level, trauma makes it harder for us to cope in general, to form healthy or safe relationships, to develop an identity in the world, or to defend ourselves. No two of us will react to the same experience in the same way, but this truth points to the fact that certain past experiences can affect our responses later in life. This is key to under standing dukkha, and to meeting our experience with wise-boundaries, compassion, kindness, and courage rather than judgment (for others and ourselves), which is an essential part of recovery.
 
 ### ID: p17-14
 Many of us turned to addictive substances and behaviors as a way to cope with our trauma. Sometimes running from the pain of our experiences by way of our addictions was itself a survival technique from feeling that we wouldn’t be able to live through the pain of our memories. While this may have provided some temporary relief, it did nothing to actually heal the pain of our trauma, and often led to even more pain.
@@ -985,7 +985,7 @@ If you have experienced discrimation-based trauma or social injus tice, how can 
 Ending the Suffering
 
 ### ID: p20-2
-It is possible to end our suffering. When we come to understand the nature of our craving and realize that all our experiences are tempo rary by nature, we can begin a more skillful way to live with the dissat isfaction that is part of being human. We don’t need to be torn apart by our thoughts and feelings that say, “I have to have more of that,” or “I’ll do anything to get rid of this.” The Third Noble Truth states that the end of craving is possible. Each of us has the capacity for recovery.
+It is possible to end our suffering. When we come to understand the nature of our craving and realize that all our experiences are temporary by nature, we can begin a more skillful way to live with the dissat isfaction that is part of being human. We don’t need to be torn apart by our thoughts and feelings that say, “I have to have more of that,” or “I’ll do anything to get rid of this.” The Third Noble Truth states that the end of craving is possible. Each of us has the capacity for recovery.
 
 ### ID: p20-3
 We are responsible for our own actions and for the energy we give our thoughts and feelings. This means we have some control over how we respond to our own suffering, because the unpleasant emotions take place within us; we create them through our response to experience. We don’t need to depend on anyone or anything else to remove the causes of our suffering. We may not be able to control anything “out there,” but we can learn to choose what we think, say, and do. We come to under stand that if our thoughts, words, and actions are driven by greed, hatred, or confusion, we are creating suffering within suffering. If we let go of these attitudes, we can lessen suffering or even create freedom. We can choose to give up these causes of disturbing and unpleasant emotions. This is the true empowerment and freedom of recovery — recognizing that happiness and suffering are up to us, based on how we choose to respond to our experiences.
@@ -1075,7 +1075,7 @@ What does it mean to you to take refuge in the Buddha, the Dharma,  and the Sang
 
 ## Chapter 22: THE EIGHTFOLD PATH:
 ### ID: p22-1
-We’ve found that it’s useful to make inquiry and investigation a normal part of our everyday routine, especially when we’re feeling un comfortable emotions or facing tough decisions. We can take a moment to pause and sit with what we’re experiencing, identify it, and simply allow it to be, with compassion and without judgment. Then use the Eightfold Path as a guide to go inward and forward by asking ourselves: “How can I apply the Eightfold Path?” It can also be beneficial to use the different sections of the Eightfold Path as an end-of-day reflection.
+We’ve found that it’s useful to make inquiry and investigation a normal part of our everyday routine, especially when we’re feeling uncomfortable emotions or facing tough decisions. We can take a moment to pause and sit with what we’re experiencing, identify it, and simply allow it to be, with compassion and without judgment. Then use the Eightfold Path as a guide to go inward and forward by asking ourselves: “How can I apply the Eightfold Path?” It can also be beneficial to use the different sections of the Eightfold Path as an end-of-day reflection.
 ## Chapter 23: WISE UNDERSTANDING:
 ### ID: p23-1
 As we engage in the world, rather than withdraw from it, we can use Wise Understanding to live without clinging, attachment, or craving. By paying attention to our actions and the results of those actions, we can begin to change where our choices are leading. If we intend to act in ways that have positive results, and if we’re aware of the true intention and the nature of our actions, then we’ll see better results — better meaning less suffering and less harm.
@@ -1370,7 +1370,7 @@ What substances and behaviors have you become reliant on to  change or cloud you
 #### Class: inquirybullitt
 List ways you might practice the Five Precepts, compassion, lovingk indness, and generosity in your decision-making. 
 
-## Chapter 27: WISE LIVLIHOOD:
+## Chapter 27: WISE LIVELIHOOD:
 
 ### ID: p27-1
 The final factor in the ethical group is Wise Livelihood, which  focuses on how we support ourselves in the world. Again, the intent is  to avoid causing harm. For most of us, our work occupies so much of  our time and attention, so how we choose to make a living takes on  special importance. Understanding the principle of karma, and knowing  that unethical activity gives rise to harmful karma, whatever choices or  circumstances lead us to a particular job need to be recognized as having  karmic consequences.
@@ -1379,7 +1379,7 @@ We try to avoid jobs that give rise to suffering and seek work  that does no har
 ### ID: p27-3
 Whatever our job is, we can practice it mindfully, with an in tention of non-harm, of easing suffering, and of compassion. This means  developing an attitude toward our occupation beyond just the money we  make. We can develop an approach of service and caring about the effects  of our actions on others, both within and outside our workspaces. Wise  Livelihood is not about judging ourselves or others for their choice of  work or trying to limit their choices. Instead, we try to understand why  and how we engage in whatever occupation we practice. Whatever work  we do, we can maintain an intention of benefiting others. 
 
-## Chapter 27.1: INQUIRY OF WISE LIVLIHOOD:
+## Chapter 27.1: INQUIRY OF WISE LIVELIHOOD:
 ### ID: p27.1-1
 #### Class: inquirybullitt
 Does your job cause harm? What is the specific nature of that harm? 

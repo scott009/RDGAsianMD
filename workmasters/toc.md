@@ -1,46 +1,62 @@
-Chapter 1    [EMPTY]
-Chapter 3    TITLE PAGE:
-Chapter 4    legal and copyright:
-Chapter 5    DEDICATION:
-Chapter 6    TOC [EMPTY]
-Chapter 8    PREFACE:
-Chapter 9    WHAT IS RECOVERY DHARMA?:
-Chapter 10    WHERE TO BEGIN:
-Chapter 11    THE PRACTICE:
-Chapter 12    AWAKENING: BUDDHA:
-Chapter 13    THE STORY OF THE ORIGINAL BUDDHA:
-Chapter 14    WALKING IN THE FOOTSTEPS OF THE BUDDHA:
-Chapter 15    THE TRUTH: DHARMA:
-Chapter 16    THE FIRST NOBLE TRUTH
-Chapter  16.1    TRAUMA AND ATTACHMENT INJURY:
-Chapter 16.2    INQUIRY OF THE FIRST NOBLE TRUTH:
-Chapter 19    THE SECOND NOBLE TRUTH:
-Chapter 19.1    INQUIRY OF THE SECOND NOBLE TRUTH
-Chapter 20    THE THIRD NOBLE TRUTH:
-Chapter 20.1    INQUIRY OF THE THIRD NOBLE TRUTH:
-Chapter 21    THE FOURTH NOBLE TRUTH
-Chapter 21.1    INQUIRY OF THE FOURTH NOBLE TRUTH:
-Chapter 22    THE EIGHTFOLD PATH
-Chapter 23    WISE UNDERSTANDING
-Chapter 23.1    INQUIRY OF WISE UNDERSTANDING:
-Chapter 24    WISE INTENTION:
-Chapter 24.1    INQUIRY OF WISE INTENTION
-Chapter 24.2    MAKING AMENDS:
-Chapter 25    WISE SPEECH:
-Chapter 25.1    INQUIRY OF WISE SPEECH::
-Chapter 26    WISE ACTION:
-Chapter 26.1    INQUIRY OF WISE ACTION:
-Chapter 27    WISE LIVELIHOOD:
-Chapter 27.1    INQUIRY OF WISE LIVELIHOOD
-Chapter 28    WISE EFFORT:
-Chapter 28.1    INQUIRY OF WISE EFFORT
-Chapter 29    WISE MINDFULNESS:
-Chapter 29.1    INQUIRY OF WISE MINDFULNESS:
-Chapter 30    WISE CONCENTRATION
-Chapter 30.1    INQUIRY OF WISE CONCENTRATION:
-Chapter 31    COMMUNITY: SANGHA:
-Chapter 32    ISOLATION AND CONNECTION:
-Chapter 33    REACHING OUT:
-Chapter 34    WISE FRIENDS AND MENTORS:
-Chapter 35    SERVICE AND GENEROSITY:
-Chapter 36    RECOVERY IS POSSIBLE
+## Chapter 6: TOC
+
+
+
+### PREFACE
+##### locaterid: 8
+### WHAT IS RECOVERY DHARMA?:
+##### locaterid: 9
+
+### WHERE TO BEGIN
+##### locaterid 10
+### THE PRACTICE
+##### locaterid: 11
+
+### SECTION I
+#### AWAKENING: BUDDHA
+##### locaterid: 12
+### THE STORY OF THE ORIGINAL BUDDHA:
+##### locaterid: 13
+### WALKING IN THE FOOTSTEPS OF THE BUDDHA:
+##### locaterid: 14
+### THE TRUTH: DHARMA
+##### locaterid: 15
+### THE FIRST NOBLE TRUTH
+##### locaterid: 16
+### THE SECOND NOBLE TRUTH
+##### locaterid: 19
+### THE THIRD NOBLE TRUTH
+##### locaterid: 20
+### THE FOURTH NOBLE TRUTH
+##### locaterid: 21
+### THE EIGHTFOLD PATH
+##### locaterid: 22
+### WISE UNDERSTANDING
+##### locaterid: 23
+### WISE INTENTION
+##### locaterid: 24
+### WISE SPEECH
+##### locaterid: 25
+### WISE ACTION
+##### locaterid: 26
+### WISE LIVELIHOOD
+##### locaterid: 27
+### WISE EFFORT
+##### locaterid: 28
+### WISE MINDFULNESS
+##### locaterid: 29
+### WISE CONCENTRATION
+##### locaterid: 30
+### COMMUNITY: SANGHA
+##### locaterid: 31
+### ISOLATION AND CONNECTION
+##### locaterid: 32
+### REACHING OUT:
+##### locaterid: 33
+### WISE FRIENDS AND MENTORS
+##### locaterid: 34
+### SERVICE AND GENEROSITY
+##### locaterid: 35
+### RECOVERY IS POSSIBLE
+##### locaterid: 36
+

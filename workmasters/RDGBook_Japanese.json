@@ -1,0 +1,2486 @@
+{
+  "metadata": {
+    "title": "Recovery Dharma",
+    "edition": "2.0",
+    "language": "japanese",
+    "source_file": "RDGBook_English.json",
+    "base_language": "english",
+    "license": "CC BY-SA 4.0",
+    "json_version": "3.1"
+  },
+  "chapters": [
+    {
+      "type": "chapter",
+      "id": 1,
+      "status": "empty",
+      "title": "",
+      "content": []
+    },
+    {
+      "type": "chapter",
+      "id": 3,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p3-1",
+          "class": "subtitle",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p3-2",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 4,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p4-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p4-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 5,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p5-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p5-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p5-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p5-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p5-5",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 6,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p6-1",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-2",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-3",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-4",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-5",
+          "class": "tocsection",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-6",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-7",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-8",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-9",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-10",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-11",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-12",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-13",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-14",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-15",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-16",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-17",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-18",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-19",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-20",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-21",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-22",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-23",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-24",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-25",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-26",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-27",
+          "class": "tocentry",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p6-28",
+          "class": "tocentry",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 8,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p8-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p8-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p8-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p8-4",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 9,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p9-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-10",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-11",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-12",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-13",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-14",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p9-15",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 10,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p10-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p10-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 11,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p11-1",
+          "class": "heading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p11-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "12",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p12-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p12-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p12-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p12-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p12-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p12-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p12-7",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "13",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p13-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p13-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p13-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p13-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p13-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p13-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p13-7",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "14",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p14-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p14-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p14-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p14-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p14-5",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "15",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p15-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p15-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p15-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p15-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p15-5",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "16",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p16-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-10",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-11",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16-12",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "16.1",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p16.1-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-10",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.1-11",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "16.2",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p16.2-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.2-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.2-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.2-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.2-5",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p16.2-6",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "19",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p19-1",
+          "class": "subtitle",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "19.1",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p19.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p19.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "20",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p20-1",
+          "class": "subtitle",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p20-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p20-3",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "20.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p20.1-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p20.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p20.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p20.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "21",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p21-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p21-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p21-12",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p21-16",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p21-17",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "21.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p21.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p21.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p21.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "22",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p22-1",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "23",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p23-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23-7",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "23.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p23.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-2",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-3",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-4",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-6",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-7",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p23.1-8",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "24",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p24-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-10",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-11",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-12",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-13",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-14",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-15",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-16",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-17",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-18",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24-19",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "24.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p24.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "24.2",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p24.2-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-5",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-6",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-7",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-8",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-9",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-10",
+          "class": "inquirynumlist",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p24.2-11",
+          "class": "inquirynumlist",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "25",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p25-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "25.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p25.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p25.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "26",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p26-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "26.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p26.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-3",
+          "class": "inquiryheading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-6",
+          "class": "inquiryheading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-7",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-8",
+          "class": "inquiryheading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-9",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-10",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-11",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-12",
+          "class": "inquiryheading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-13",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-14",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-15",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-16",
+          "class": "inquiryheading",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-17",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-18",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p26.1-19",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "27",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p27-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27-3",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "27.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p27.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p27.1-6",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "28",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p28-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28-5",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "28.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p28.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p28.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "29",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p29-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29-9",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "29.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p29.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p29.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "30",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p30-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30-7",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "30.1",
+      "status": "suspect",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p30.1-1",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30.1-2",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30.1-3",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30.1-4",
+          "class": "inquirybullitt",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p30.1-5",
+          "class": "inquirybullitt",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 31,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p31-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p31-10",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 32,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p32-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-10",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-11",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-12",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-13",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p32-14",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 33,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p33-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-8",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-9",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p33-10",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 34,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p34-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p34-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p34-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p34-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p34-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p34-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p34-7",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": 35,
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p35-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-7",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p35-8",
+          "class": null,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "chapter",
+      "id": "36",
+      "status": "draft",
+      "title": "",
+      "content": [
+        {
+          "type": "paragraph",
+          "id": "p36-1",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-2",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-3",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-4",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-5",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-6",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-7",
+          "class": "poemline",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-8",
+          "class": "poemline",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-9",
+          "class": "poemline",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-10",
+          "class": "poemline",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-11",
+          "class": "poemline",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-12",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-13",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-14",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-15",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-17",
+          "class": null,
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-18",
+          "class": "poemline",
+          "text": ""
+        },
+        {
+          "type": "paragraph",
+          "id": "p36-19",
+          "class": "poemline",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

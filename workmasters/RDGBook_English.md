@@ -366,6 +366,7 @@ The Buddha also taught the way to free ourselves from this suffering. When the B
 Like a map that shows us the path, these truths help us find our way in recovery.
 
 ## Chapter 16: THE FIRST NOBLE TRUTH:
+### Class: chaptermain
 
 ### ID: p16-2
 Some of the ways in which we may experience suffering are obvi ous, like poverty, hunger, pain, disappointment, and feeling separated or excluded. There is also suffering due to the divisions of our world, such as war, colonization, and oppression. Some are less obvious, like feelings of cravings, anxiety, stress, and uncertainty. We also suffer as we struggle with birth, aging, sickness, and death. As much as we want to avoid what we consider unpleasant and hold onto what we label as pleasant, dissatis faction, separation, loss, and injustice still may frequently arise. Suffering occurs whenever we fail to see the true nature of our existence, when we insist on controlling or altering our reality.
@@ -401,6 +402,7 @@ Having suffered and struggled with addiction in its many forms, we’ve come to 
 Liberation comes when we gain a clear understanding of where our real power lies, and when we are throwing it away. This is a program of empowerment. It’s a path of letting go of behavior that no longer serves us and cultivating that which does.
 
 ## Chapter 16.1: TRAUMA AND ATTACHMENT INJURY
+### Class: chaptersub  
 
 ### ID: p16.1-1
 Many of us have experienced trauma, often described as the psy chological damage that occurs after living through an extremely fright ening or distressing event or situation. For some of us, this trauma can be a long-term experience. It’s caused by an overwhelming amount of stress that exceeds our ability to cope, and may make it hard to function even long after the event. Trauma can come from childhood experienc es or from events that occur in our adulthood. It can be sudden, or it can develop over time from a series of events that changed how we per ceive ourselves and the world. This also includes the resulting trauma from discrimination and bigotry. While trauma frequently comes from life-threatening events, any situation that leaves one feeling emotionally or physically in danger can be traumatic. It’s not the objective facts of the event that define the trauma; distress is relative and what might be considered traumatic for one may not be for others. Generally, the more terror and helplessness we feel, the more likely it is we’ll be traumatized.
@@ -436,7 +438,7 @@ Many of us turned to addictive substances and behaviors as a way to cope with ou
 Our trauma is not our fault, but healing from it is our responsi bility, and our right. Developing understanding and compassion toward the way trauma affects our reactions to events or circumstances in the present moment is an important part of that healing.
 
 ## Chapter 16.2: INQUIRY OF THE FIRST NOBLE TRUTH
-
+### Class: chaptersub 
 ### ID: p16.2-1
 *[inquirybullitt]*
 Begin by making a list of the behaviors and actions associated with your addiction(s) that you consider harmful. Without exaggerating or minimizing, think about the things you have done that have created additional suffering to yourself and others.

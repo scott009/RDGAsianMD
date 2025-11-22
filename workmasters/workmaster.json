@@ -7,7 +7,7 @@
     "extraction_method": "smart_pattern_analysis",
     "license": "CC BY-SA 4.0",
     "json_version": "3.1",
-    "last_updated": "2025-11-22T08:54:26",
+    "last_updated": "2025-11-22T09:03:19",
     "status_fields": {
       "english": {
         "fields": [
@@ -81,54 +81,123 @@
     },
     "data_sources": {
       "english": {
-        "source_type": "local",
-        "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
-        "filename": "RDGBook_English.md",
-        "required": true,
-        "hash": "sha256:e188a44794f8fd391bf5eb33c7c20cd5938918cc9720fe4f58f7e85cc5a5a6f4",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_English.md",
+          "required": true,
+          "hash": "sha256:e188a44794f8fd391bf5eb33c7c20cd5938918cc9720fe4f58f7e85cc5a5a6f4",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_English.md",
+          "required": true,
+          "hash": "sha256:e188a44794f8fd391bf5eb33c7c20cd5938918cc9720fe4f58f7e85cc5a5a6f4",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       },
       "thai": {
-        "source_type": "github",
-        "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Thai.md",
-        "required": false,
-        "hash": "sha256:615be7c63ffaf281c2358741658f88fb603e192d2d5d074b4b38958f720e4a5c",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_Thai.md",
+          "required": false,
+          "hash": "sha256:615be7c63ffaf281c2358741658f88fb603e192d2d5d074b4b38958f720e4a5c",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Thai.md",
+          "required": false,
+          "hash": "sha256:615be7c63ffaf281c2358741658f88fb603e192d2d5d074b4b38958f720e4a5c",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       },
       "vietnamese": {
-        "source_type": "github",
-        "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Vietnamese.md",
-        "required": false,
-        "hash": "sha256:3991412832bbb73e812d1ecfec5134e37ad4398c5b112c5b1531034cdef24e5d",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_Vietnamese.md",
+          "required": false,
+          "hash": "sha256:3991412832bbb73e812d1ecfec5134e37ad4398c5b112c5b1531034cdef24e5d",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Vietnamese.md",
+          "required": false,
+          "hash": "sha256:3991412832bbb73e812d1ecfec5134e37ad4398c5b112c5b1531034cdef24e5d",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       },
       "korean": {
-        "source_type": "github",
-        "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Korean.md",
-        "required": false,
-        "hash": "sha256:4be3c4388206dab40f740a28f9bcc7242181c61b5397512985cf34c75d2e711f",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_Korean.md",
+          "required": false,
+          "hash": "sha256:4be3c4388206dab40f740a28f9bcc7242181c61b5397512985cf34c75d2e711f",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Korean.md",
+          "required": false,
+          "hash": "sha256:4be3c4388206dab40f740a28f9bcc7242181c61b5397512985cf34c75d2e711f",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       },
       "japanese": {
-        "source_type": "github",
-        "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Japanese.md",
-        "required": false,
-        "hash": "sha256:205417449dcd2eb67aa4fbc8cc5828f627fe77fb15cf518250106581d92d2b5a",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_Japanese.md",
+          "required": false,
+          "hash": "sha256:205417449dcd2eb67aa4fbc8cc5828f627fe77fb15cf518250106581d92d2b5a",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_Japanese.md",
+          "required": false,
+          "hash": "sha256:205417449dcd2eb67aa4fbc8cc5828f627fe77fb15cf518250106581d92d2b5a",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       },
       "simplified_chinese": {
-        "source_type": "github",
-        "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_SimplifiedChinese.md",
-        "required": false,
-        "hash": "sha256:b2b4c784d4aa764af3c705b5f091cedbfbb48a35a493b6d97a039cab3ae5c54c",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_SimplifiedChinese.md",
+          "required": false,
+          "hash": "sha256:b2b4c784d4aa764af3c705b5f091cedbfbb48a35a493b6d97a039cab3ae5c54c",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_SimplifiedChinese.md",
+          "required": false,
+          "hash": "sha256:b2b4c784d4aa764af3c705b5f091cedbfbb48a35a493b6d97a039cab3ae5c54c",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       },
       "traditional_chinese": {
-        "source_type": "github",
-        "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_TraditionalChinese.md",
-        "required": false,
-        "hash": "sha256:12f9a5ed28ed7cd03dfe5b9033619f50c7248109a72bbbfb7f96543d7b75ae7b",
-        "last_verified": "2025-11-22T08:54:26"
+        "local": {
+          "source_type": "local",
+          "path": "/home/scott/gitrepos/RDGAsianMD/workmasters",
+          "filename": "RDGBook_TraditionalChinese.md",
+          "required": false,
+          "hash": "sha256:12f9a5ed28ed7cd03dfe5b9033619f50c7248109a72bbbfb7f96543d7b75ae7b",
+          "last_verified": "2025-11-22T09:03:19"
+        },
+        "remote": {
+          "source_type": "github",
+          "uri": "https://raw.githubusercontent.com/scott009/RDGAsianMD/scott/workmasters/RDGBook_TraditionalChinese.md",
+          "required": false,
+          "hash": "sha256:12f9a5ed28ed7cd03dfe5b9033619f50c7248109a72bbbfb7f96543d7b75ae7b",
+          "last_verified": "2025-11-22T09:03:19"
+        }
       }
     }
   },

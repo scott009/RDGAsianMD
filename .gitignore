@@ -16,3 +16,9 @@ vx_config/
 
 # Temporary and intermediate files
 tmp/
+
+# Archive directory
+workmasters/archive/
+
+# Azure TTS pilot (contains secrets)
+workmasters/audio_tts_pilot/

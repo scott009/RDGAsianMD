@@ -1256,7 +1256,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": 1
+          "english_text": 2
         }
       ],
       "chapter_status": 2
@@ -1806,7 +1806,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": 1
+          "english_text": 2
         }
       ],
       "chapter_status": 1
@@ -1944,7 +1944,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": 1
+          "english_text": 2
         }
       ],
       "chapter_status": 1
@@ -2038,7 +2038,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": ""
+          "english_text": 1
         },
         {
           "type": "paragraph",
@@ -2082,7 +2082,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": ""
+          "english_text": 1
         }
       ],
       "chapter_status": 1
@@ -2200,7 +2200,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": 1
+          "english_text": 2
         },
         {
           "type": "paragraph",
@@ -2370,7 +2370,7 @@
           "japanese_comments": "",
           "Chinese_Tradition_comments": "",
           "Chinese_Simplified_comments": "",
-          "english_text": 1
+          "english_text": 2
         },
         {
           "type": "paragraph",
@@ -2465,7 +2465,7 @@
           "japanese_comments": "",
           "Chinese_Tradition_comments": "",
           "Chinese_Simplified_comments": "",
-          "english_text": ""
+          "english_text": 1
         },
         {
           "type": "paragraph",
@@ -2906,7 +2906,7 @@
           "japanese_comments": "",
           "Chinese_Tradition_comments": "",
           "Chinese_Simplified_comments": "",
-          "english_text": ""
+          "english_text": 1
         },
         {
           "type": "paragraph",
@@ -3074,7 +3074,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": 1
+          "english_text": 2
         },
         {
           "type": "paragraph",
@@ -3282,7 +3282,7 @@
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
           "class": "inquirybullitt",
-          "english_text": ""
+          "english_text": 1
         },
         {
           "type": "paragraph",
@@ -3378,7 +3378,7 @@
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
           "class": "inquirynumlist",
-          "english_text": ""
+          "english_text": 2
         }
       ],
       "chapter_status": 1
@@ -3597,7 +3597,7 @@
           "japanese_comments": "",
           "Chinese_Tradition_comments": "",
           "Chinese_Simplified_comments": "",
-          "english_text": ""
+          "english_text": 2
         }
       ],
       "chapter_status": 1
@@ -4438,7 +4438,7 @@
           "japanese_text": 0,
           "Chinese_Tradition_text": 0,
           "Chinese_Simplified_text": 0,
-          "english_text": 1
+          "english_text": 2
         },
         {
           "type": "paragraph",
@@ -4815,7 +4815,7 @@
           "japanese_comments": "",
           "Chinese_Tradition_comments": "",
           "Chinese_Simplified_comments": "",
-          "english_text": ""
+          "english_text": 2
         }
       ],
       "chapter_status": 1

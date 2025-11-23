@@ -60,19 +60,19 @@ With all of the joy and sadness, skillfulness and imperfection, striving and res
 ## Chapter 6: TOC
 
 ### ID: p6-1
-*[tocentry]*
+*[TOCentry]*
 PREFACE
 
 ### ID: p6-2
-*[tocentry]*
+*[TOCentry]*
 WHAT IS RECOVERY DHARMA?:
 
 ### ID: p6-3
-*[tocentry]*
+*[TOCentry]*
 WHERE TO BEGIN
 
 ### ID: p6-4
-*[tocentry]*
+*[TOCentry]*
 THE PRACTICE
 
 ### ID: p6-5
@@ -80,95 +80,95 @@ THE PRACTICE
 SECTION I
 
 ### ID: p6-6
-*[tocentry]*
+*[TOCentry]*
 AWAKENING: BUDDHA
 
 ### ID: p6-7
-*[tocentry]*
+*[TOCentry]*
 THE STORY OF THE ORIGINAL BUDDHA:
 
 ### ID: p6-8
-*[tocentry]*
+*[TOCentry]*
 WALKING IN THE FOOTSTEPS OF THE BUDDHA:
 
 ### ID: p6-9
-*[tocentry]*
+*[TOCentry]*
 THE TRUTH: DHARMA
 
 ### ID: p6-10
-*[tocentry]*
+*[TOCentry]*
 THE FIRST NOBLE TRUTH
 
 ### ID: p6-11
-*[tocentry]*
+*[TOCentry]*
 THE SECOND NOBLE TRUTH
 
 ### ID: p6-12
-*[tocentry]*
+*[TOCentry]*
 THE THIRD NOBLE TRUTH
 
 ### ID: p6-13
-*[tocentry]*
+*[TOCentry]*
 THE FOURTH NOBLE TRUTH
 
 ### ID: p6-14
-*[tocentry]*
+*[TOCentry]*
 THE EIGHTFOLD PATH
 
 ### ID: p6-15
-*[tocentry]*
+*[TOCentry]*
 WISE UNDERSTANDING
 
 ### ID: p6-16
-*[tocentry]*
+*[TOCentry]*
 WISE INTENTION
 
 ### ID: p6-17
-*[tocentry]*
+*[TOCentry]*
 WISE SPEECH
 
 ### ID: p6-18
-*[tocentry]*
+*[TOCentry]*
 WISE ACTION
 
 ### ID: p6-19
-*[tocentry]*
+*[TOCentry]*
 WISE LIVELIHOOD
 
 ### ID: p6-20
-*[tocentry]*
+*[TOCentry]*
 WISE EFFORT
 
 ### ID: p6-21
-*[tocentry]*
+*[TOCentry]*
 WISE MINDFULNESS
 
 ### ID: p6-22
-*[tocentry]*
+*[TOCentry]*
 WISE CONCENTRATION
 
 ### ID: p6-23
-*[tocentry]*
+*[TOCentry]*
 COMMUNITY: SANGHA
 
 ### ID: p6-24
-*[tocentry]*
+*[TOCentry]*
 ISOLATION AND CONNECTION
 
 ### ID: p6-25
-*[tocentry]*
+*[TOCentry]*
 REACHING OUT:
 
 ### ID: p6-26
-*[tocentry]*
+*[TOCentry]*
 WISE FRIENDS AND MENTORS
 
 ### ID: p6-27
-*[tocentry]*
+*[TOCentry]*
 SERVICE AND GENEROSITY
 
 ### ID: p6-28
-*[tocentry]*
+*[TOCentry]*
 RECOVERY IS POSSIBLE
 
 ## Chapter 8: PREFACE
@@ -218,18 +218,23 @@ Many of us have spent a lot of time criticizing ourselves. In this program, we r
 Of course we cannot escape the circumstances and conditions that are part of the human condition. We've already tried — through drugs and alcohol, through sex and codependency, through gambling and technology, through work and shopping, through food or the restriction of food, through obsession and the futile attempts to control our experiences and feelings — and we're here because it didn't work. This is a program that invites us to recognize and accept that some pain and disappointment will always be present, to investigate the unskillful ways we have dealt with that pain in the past, and to develop a habit of understanding, compassion, forgiveness, and insight toward our own pain, the pain of others, and the pain we have caused. Acceptance with insight and compassion is what creates freedom from the suffering that makes our pain seem unbearable.
 
 ### ID: p9-11
+*[verse]*
 This book is only an introduction to a path that can bring liberation and freedom from the cycle of addiction. The intention, and the hope of our program, is that every person on the path will be empowered to make it their own.
 
 ### ID: p9-12
+*[verse]*
 May you be happy.
 
 ### ID: p9-13
+*[verse]*
 May you be at ease.
 
 ### ID: p9-14
+*[verse]*
 May you be free from suffering.
 
 ### ID: p9-15
+*[verse]*
 May all beings be free from suffering.
 
 ## Chapter 10: WHERE TO BEGIN
@@ -1228,23 +1233,23 @@ We follow the Eightfold Path, which allows us to develop understanding. It teach
 What we are achieving is what in Buddhism is called sukha, or true happiness. This is not the temporary pleasure that comes from a high or other temporary sense experience, but the inner peace and well-being that comes from a balanced, mindful life. It is the opposite of the suffering and unsatisfactoriness of dukkha. Sukha is freedom from hate, greed, and confusion. It is an expansive approach to life, being able to sit with and move through feelings of discomfort, dissatisfaction, and discontent. Many of us have been running from and denying dukkha for a very long time, but we have found that it is only when we stop running that we are able to truly access authentic happiness. We can practice the message:
 
 ### ID: p36-7
-*[poemline]*
+*[verse]*
 I am here.
 
 ### ID: p36-8
-*[poemline]*
+*[verse]*
 This is the way it is right now.
 
 ### ID: p36-9
-*[poemline]*
+*[verse]*
 This is a moment of suffering.
 
 ### ID: p36-10
-*[poemline]*
+*[verse]*
 May I give myself the care I need at this moment.
 
 ### ID: p36-11
-*[poemline]*
+*[verse]*
 May I accept this without struggling, but also without giving up.
 
 ### ID: p36-12
@@ -1263,9 +1268,9 @@ There is no magic bullet, no single action or practice that will end suffering. 
 Recovery is the lifelong process of recovering our true nature and finding a way to an enduring and non-harmful sense of happiness. In recovery, we can finally find the peace so many of us had been searching for in our addictions. We can break through our isolation and find a community of wise friends to support us on our path. We can build a home for ourselves, within ourselves, and we can help others do the same. The gift we give to ourselves, to one another, and to the world, is one of courage, understanding, compassion, and serenity. We all experience growth differently, and at our own pace. But the most important message of this book is that the journey, the healing, can start now for you and for each of us.
 
 ### ID: p36-18
-*[poemline]*
+*[verse]*
 May you find your path to recovery.
 
 ### ID: p36-19
-*[poemline]*
+*[verse]*
 May you trust in your own potential for awakening.

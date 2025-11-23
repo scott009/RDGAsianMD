@@ -5,8 +5,8 @@
 
 ---
 
-*[chaptermain]*
 ## Chapter 3: TITLE PAGE
+*[chaptermain]*
 
 ### ID: p3-1
 *[subtitle]*
@@ -15,8 +15,8 @@ How to use Buddhist practices and principles to heal the suffering of addiction
 ### ID: p3-2
 second edition
 
-*[chaptermain]*
 ## Chapter 4: legal and copyright
+*[chaptermain]*
 
 ### ID: p4-1
 Copyright © 2023 Recovery Dharma Inc. Some rights reserved. No part of this publication may be reproduced or transmitted in any form by any means for commercial purposes without the prior written authorization of Recovery Dharma Inc.
@@ -42,8 +42,8 @@ Attribution: You must give appropriate credit, provide a link to the license, an
 ### ID: p4-8
 NonCommercial: You may not use the material for commercial purposes. ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-*[chaptermain]*
 ## Chapter 5: DEDICATION
+*[chaptermain]*
 
 ### ID: p5-1
 We dedicate this book to the South Asian and Asian ancestors who protected and freely offered the Buddha's teachings to all. Buddhism originated in India and later flourished in other regions of Asia, including South Asia, East Asia, Southeast Asia, Central Asia, and others.
@@ -60,8 +60,8 @@ We dedicate our practice to fostering collective healing and liberation from all
 ### ID: p5-5
 With all of the joy and sadness, skillfulness and imperfection, striving and resting, grasping and letting go that arise on this path of healing and growth, we honor all those who have walked the grateful road of recovery in the past, present, and those who will carry on this practice in the future.
 
-*[chaptermain]*
 ## Chapter 6: TOC
+*[chaptermain]*
 
 ### ID: p6-1
 *[TOCentry]*
@@ -175,8 +175,8 @@ SERVICE AND GENEROSITY
 *[TOCentry]*
 RECOVERY IS POSSIBLE
 
-*[chaptermain]*
 ## Chapter 8: PREFACE
+*[chaptermain]*
 
 ### ID: p8-1
 Once we make a decision to recover from addiction — to substances, habits, people, whatever — it can be scary. The feeling is often one of loss and loneliness, because recovery can shake our sense of some of our core identities, and the concept of who we are. How will I relate to others? How can I remain steadfast in my decision? Change can be hard to face, even if we know we're letting go of something that's a danger to us. Recovery Dharma offers resources and a supportive setting for this brave change no matter what part of the journey you're on.
@@ -190,8 +190,8 @@ This book is a collaboration from members of our community. It's intended as a s
 ### ID: p8-4
 Each of us has our own unique identities and life experiences. Some of us have experienced trauma or lifelong challenges due to being a minority in race, ethnicity, gender, sexual orientation, social class status, disability status, etc. Our program recognizes that being in recovery also means healing and gaining wisdom within our own social identities. We encourage you to adapt this book and create inquiries that may help promote healing, growth, and understanding based on your own identity and experience.
 
-*[chaptermain]*
 ## Chapter 9: WHAT IS RECOVERY DHARMA?
+*[chaptermain]*
 
 ### ID: p9-1
 Dharma is a Sanskrit word meaning “truth,” “phenomena,” or “the nature of things.” When it’s capitalized, Dharma usually means the teachings of the Buddha and the practices based on those teachings.
@@ -243,8 +243,8 @@ May you be free from suffering.
 *[verse]*
 May all beings be free from suffering.
 
-*[chaptermain]*
 ## Chapter 10: WHERE TO BEGIN
+*[chaptermain]*
 
 ### ID: p10-1
 How can we use Buddhism for our recovery? Outlined below are the areas that we suggest you concentrate your energy on while walking this path.
@@ -270,8 +270,8 @@ Supportive friendships are an integral part of the practice. The questions may b
 ### ID: p10-8
 Our path is not a checklist, but rather a practice in which we choose where and how to invest our energy in a way that is both wise and compassionate toward ourselves and others. This journey involves meditation, meetings, and written inventories, all of which can improve our lives greatly. The practice of the Eightfold Path helps us develop insight and compassion as we begin to look into the causes and conditions that led to our own suffering with addiction. This path doesn’t have an end. There will continue to be suffering and challenges in life. This path offers a way to transform the suffering caused by our habitual reactions to these challenges, and an end to the illusion of escape we tried to find in substances or behaviors. It’s a way to break our chains with our own hands. It’s a path of deep freedom and refuge.
 
-*[chaptermain]*
 ## Chapter 11: THE PRACTICE
+*[chaptermain]*
 
 ### ID: p11-1
 *[heading]*
@@ -298,8 +298,8 @@ The Path: We commit to deepening and broadening our understanding of the Four No
 ### ID: p11-8
 **Growth:** We continue our study of Buddhist practices through reading, listening to Dharma talks, visiting and becoming members of recovery and spiritual sanghas, and attending meditation or retreats to enhance our understanding, wisdom, and practice. We undertake a lifelong journey of growth and awakening.
 
-*[chaptermain]*
 ## Chapter 12: AWAKENING: BUDDHA
+*[chaptermain]*
 
 ### ID: p12-1
 Most of us enter recovery with one goal in mind: to stop the suffering that got us here in the first place, whether that was drinking, using drugs, stealing, eating, gambling, sex, codependency, technology, or other process addictions. As newcomers, most of us would be satisfied with simple damage control or reduction in harmful behavior. We want to stop hurting ourselves or others in particular ways.
@@ -322,8 +322,8 @@ So what does the Buddha have to do with recovery?
 ### ID: p12-7
 There are two ways in which we use the word Buddha, which means “awakened.” First, it is the title given to Siddhartha Gautama, a prince who lived in modern-day Nepal and India roughly 2,500 years ago. After many years of scholarly study, meditation, and ethical practice, he was awakened to the nature of human suffering and discovered a path that leads to the end of suffering, and the freedom that comes from awakening. After his awakening, Siddhartha came to be known as the Buddha. The second use of the word Buddha follows from the first. Buddha can refer, not only to the historical figure but also to the idea of awakening: the fact that each of us has within ourselves the potential to awaken to the same understanding as the original Buddha. When we take refuge in the Buddha, we take refuge not in Siddhartha as a person, but in the fact that he was able to find freedom from his suffering and so can we.
 
-*[chaptermain]*
 ## Chapter 13: THE STORY OF THE ORIGINAL BUDDHA
+*[chaptermain]*
 
 ### ID: p13-1
 To understand the nature of this awakening it could help to know something about the life of Siddhartha Gautama. One of the many versions of the story of the Buddha tells us that Siddhartha was a wealthy prince, born into privilege, and sheltered from much of the suffering of the world. The story goes that young Siddhartha sneaked away from his palace and saw people suffering from old age, sickness, and death. He realized that no amount of privilege could protect him from this suffering. Wealth wouldn’t prevent it. Comfort wouldn’t prevent it. Pleasure wouldn’t prevent it. Despite having a life of ease, Sid dhartha still found that he experienced suffering and dissatisfaction. He was born with everything, but it wasn’t enough.
@@ -346,8 +346,8 @@ What Siddhartha understood as he meditated under the Bodhi tree is known as the 
 ### ID: p13-7
 Siddhartha was called the Buddha, or “The One Who Woke Up,” because most people go through life with a false sense of reality, like being in a trance. The Buddha spent the rest of his life developing the Dharma into a simple but sophisticated system. He shared it with anyone who would listen, dedicating himself to a life of service to free everybody from suffering. He defied the norms of his time by letting women and the poorest class of citizens become monastics. Everyone was welcome in his sangha, his spiritual community. Central to his teachings was the idea that liberation is available to all — to the most broken and oppressed among us, to the sick, to the powerless, to those who have lost everything, to those who have nothing left to lose. All of us, even the most addicted, the most lost, can find our way to awakening, because we all have the ability to access the pure, wise, and true nature within each of us.
 
-*[chaptermain]*
 ## Chapter 14: WALKING IN THE FOOTSTEPS OF THE BUDDHA
+*[chaptermain]*
 
 ### ID: p14-1
 The story of the Buddha may seem far removed from our every day reality, but his life before and after his awakening offers us a model for our own lives. All of us can relate to the inevitability of suffering. Aging, sickness, and death have touched us all. We’ve experienced the truth of impermanence — the highs we achieved in our addictions al ways wore off, but we kept chasing them anyway. We’ve also endured other forms of suffering, some self-inflicted and some at the hands of others. And we’ve dealt with subtle forms of dukkha: the annoyances, the boredom, the loss of what we want, the inability to keep what we have, the impatience with life, the refusal to accept what is. And what have we done with these experiences of suffering?
@@ -364,8 +364,8 @@ We can look back on our own lives and see clearly the path that brought us here.
 ### ID: p14-5
 The Buddha began as a layperson with suffering, just like us. This is not a path of miracle or blind-faith. This is a path of practice and the Buddha can be an ideal that inspires us. Experience has shown us that good results come when we put the necessary effort into our own recovery. This is a program of empowerment: we take responsibility for our own intentions and actions. The Sangha is here to help us along the way. We don’t have to identify as Buddhists, and we don’t have to meditate for hours each day. But we have found that the path outlined in the Four Noble Truths and the Eightfold Path can lead us to liberation from both the suffering of addiction and the suffering that comes from simply being human. We trust in the potential in all of us to find freedom from this suffering.
 
-*[chaptermain]*
 ## Chapter 15: THE TRUTH: DHARMA
+*[chaptermain]*
 
 ### ID: p15-1
 As people who have struggled with addiction, we’re already inti mately familiar with the truth of suffering. Even if we’ve never heard of the Buddha, at some level we already understand the core of the teach ings: that in this life, there is suffering.
@@ -382,8 +382,8 @@ The Buddha also taught the way to free ourselves from this suffering. When the B
 ### ID: p15-5
 Like a map that shows us the path, these truths help us find our way in recovery.
 
-*[chaptermain]*
 ## Chapter 16: THE FIRST NOBLE TRUTH:
+*[chaptermain]*
 
 ### ID: p16-2
 Some of the ways in which we may experience suffering are obvi ous, like poverty, hunger, pain, disappointment, and feeling separated or excluded. There is also suffering due to the divisions of our world, such as war, colonization, and oppression. Some are less obvious, like feelings of cravings, anxiety, stress, and uncertainty. We also suffer as we struggle with birth, aging, sickness, and death. As much as we want to avoid what we consider unpleasant and hold onto what we label as pleasant, dissatis faction, separation, loss, and injustice still may frequently arise. Suffering occurs whenever we fail to see the true nature of our existence, when we insist on controlling or altering our reality.
@@ -418,8 +418,8 @@ Having suffered and struggled with addiction in its many forms, we’ve come to 
 ### ID: p16-12
 Liberation comes when we gain a clear understanding of where our real power lies, and when we are throwing it away. This is a program of empowerment. It’s a path of letting go of behavior that no longer serves us and cultivating that which does.
 
-*[chaptersub]*
 ## Chapter 16.1: TRAUMA AND ATTACHMENT INJURY
+*[chaptersub]*
 
 ### ID: p16.1-1
 Many of us have experienced trauma, often described as the psy chological damage that occurs after living through an extremely fright ening or distressing event or situation. For some of us, this trauma can be a long-term experience. It’s caused by an overwhelming amount of stress that exceeds our ability to cope, and may make it hard to function even long after the event. Trauma can come from childhood experienc es or from events that occur in our adulthood. It can be sudden, or it can develop over time from a series of events that changed how we per ceive ourselves and the world. This also includes the resulting trauma from discrimination and bigotry. While trauma frequently comes from life-threatening events, any situation that leaves one feeling emotionally or physically in danger can be traumatic. It’s not the objective facts of the event that define the trauma; distress is relative and what might be considered traumatic for one may not be for others. Generally, the more terror and helplessness we feel, the more likely it is we’ll be traumatized.
@@ -454,8 +454,8 @@ Many of us turned to addictive substances and behaviors as a way to cope with ou
 ### ID: p16.1-11
 Our trauma is not our fault, but healing from it is our responsibility, and our right. Developing understanding and compassion toward the way trauma affects our reactions to events or circumstances in the present moment is an important part of that healing.
 
-*[chaptersub]*
 ## Chapter 16.2: INQUIRY OF THE FIRST NOBLE TRUTH
+*[chaptersub]*
 
 ### ID: p16.2-1
 *[inquirybullitt]*
@@ -481,8 +481,8 @@ How have your addictive behaviors been a response to trauma and pain? What are s
 *[inquirybullitt]*
 If you have experienced trauma from discrimination, what are ways you can experience healing and practice self-care? Consider opportunities to support social justice while allowing yourself to heal and practice compassion for yourself and others.
 
-*[chaptermain]*
 ## Chapter 19: THE SECOND NOBLE TRUTH:
+*[chaptermain]*
 
 ### ID: p19-1
 *[subtitle]*
@@ -503,8 +503,8 @@ Many of us experience addiction as the loss of our freedom to choose; it's the a
 ### ID: p19-8
 Conditions or circumstances in and of themselves don't cause suffering. They can cause pain or unpleasant experiences, but we add suffering on top of this when we think we "need" those circumstances to be different. We create even more suffering when we act out in ways that deny the reality of the circumstances and the reality of impermanence. Craving is the underlying motive that fuels unwise actions that create suffering.
 
-*[chaptersub]*
 ## Chapter 19.1: INQUIRY OF THE SECOND NOBLE TRUTH:
+*[chaptersub]*
 
 ### ID: p19.1-1
 *[inquirybullitt]*
@@ -526,8 +526,8 @@ Are you clinging to any beliefs that fuel craving and aversion, beliefs that den
 *[inquirybullitt]*
 If you have experienced discrimination-based trauma or social injustice, how can you meet the experience in a way that honors your true self, without creating more pain and suffering?
 
-*[chaptermain]*
 ## Chapter 20: THE THIRD NOBLE TRUTH:
+*[chaptermain]*
 
 ### ID: p20-1
 *[subtitle]*
@@ -539,8 +539,8 @@ It is possible to end our suffering. When we come to understand the nature of ou
 ### ID: p20-3
 We are responsible for our own actions and for the energy we give our thoughts and feelings. This means we have some control over how we respond to our own suffering, because the unpleasant emotions take place within us; we create them through our response to experience. We don’t need to depend on anyone or anything else to remove the causes of our suffering. We may not be able to control anything “out there,” but we can learn to choose what we think, say, and do. We come to under stand that if our thoughts, words, and actions are driven by greed, hatred, or confusion, we are creating suffering within suffering. If we let go of these attitudes, we can lessen suffering or even create freedom. We can choose to give up these causes of disturbing and unpleasant emotions. This is the true empowerment and freedom of recovery — recognizing that happiness and suffering are up to us, based on how we choose to respond to our experiences.
 
-*[chaptersub]*
 ## Chapter 20.1: INQUIRY OF THE THIRD NOBLE TRUTH:
+*[chaptersub]*
 
 ### ID: p20.1-1
 What makes it so hard to quit?
@@ -557,8 +557,8 @@ List reasons to believe you can recover. Also list your doubts. What might the w
 *[inquirybullitt]*
 Practice "letting go" of something small. Notice that the craving doesn't last and that there's a little sense of relief when you let it pass. That's a little taste of freedom.
 
-*[chaptermain]*
 ## Chapter 21: THE FOURTH NOBLE TRUTH:
+*[chaptermain]*
 
 ### ID: p21-2
 The Buddha taught that by living ethically, practicing medita tion, and developing wisdom and compassion, we can end the suffering we create by resisting, running from, and misunderstanding reality.
@@ -575,8 +575,8 @@ Each of us will understand and practice each aspect of this Eightfold Path in ou
 ### ID: p21-17
 The Eightfold Path is a way of life that each of us follows and practices to the best of our current understanding and capacity. The Path can serve as both a religious and non-religious journey. For many people, their Buddhist practice includes prayer, worship, and ceremony. It is up to you to decide whether to include these practices as part of your recovery path.
 
-*[chaptersub]*
 ## Chapter 21.1: INQUIRY OF THE FOURTH NOBLE TRUTH:
+*[chaptersub]*
 
 ### ID: p21.1-1
 *[inquirybullitt]*
@@ -590,14 +590,14 @@ What behaviors can you change to more fully support your recovery?
 *[inquirybullitt]*
 What does it mean to you to take refuge in the Buddha, the Dharma, and the Sangha for your recovery?
 
-*[chaptermain]*
 ## Chapter 22: THE EIGHTFOLD PATH:
+*[chaptermain]*
 
 ### ID: p22-1
 We’ve found that it’s useful to make inquiry and investigation a normal part of our everyday routine, especially when we’re feeling un comfortable emotions or facing tough decisions. We can take a moment to pause and sit with what we’re experiencing, identify it, and simply allow it to be, with compassion and without judgment. Then use the Eightfold Path as a guide to go inward and forward by asking ourselves: “How can I apply the Eightfold Path?” It can also be beneficial to use the different sections of the Eightfold Path as an end-of-day reflection.
 
-*[chaptermain]*
 ## Chapter 23: WISE UNDERSTANDING:
+*[chaptermain]*
 
 ### ID: p23-1
 As we engage in the world, rather than withdraw from it, we can use Wise Understanding to live without clinging, attachment, or craving. By paying attention to our actions and the results of those actions, we can begin to change where our choices are leading. If we intend to act in ways that have positive results, and if we’re aware of the true intention and the nature of our actions, then we’ll see better results — better meaning less suffering and less harm.
@@ -620,8 +620,8 @@ It’s important to note that being responsible for our own hap piness and suffe
 ### ID: p23-7
 The Buddhist perspective is that our present mental, moral, in tellectual, and emotional circumstances are the direct result of our ac tions and habits, both past and present. How we choose to respond when confronted with pain or discomfort will change our ability to skillfully deal with suffering when it arises. We can also take solace in the fact that we’re not alone, that every person has difficult and unpleasant experienc es. It’s how we respond to pain that determines our experience.
 
-*[chaptersub]*
 ## Chapter 23.1: INQUIRY OF WISE UNDERSTANDING:
+*[chaptersub]*
 
 ### ID: p23.1-1
 *[inquirybullitt]*
@@ -655,8 +655,8 @@ How is karma — the law of cause and effect — showing up right now?
 *[inquirybullitt]*
 Where in your life are you dealing with the effects or aftermath of action you took in the past, both positive and negative?
 
-*[chaptermain]*
 ## Chapter 24: WISE INTENTION:
+*[chaptermain]*
 
 ### ID: p24-1
 Wise Intention describes the attitude or approach we take to ward ourselves and the world. We can choose non-harming by avoiding actions that have harmful results, detaching from the cravings that seem overwhelming in the moment, and developing a kind and compassionate stance toward ourselves and the world. Wise Intention leads us to stop doing things based on confusion, ill-will, hatred, violence, and selfish ness. It impacts all our relationships: with ourselves, other people, our community, and the world as a whole.
@@ -715,8 +715,8 @@ When we have come to understand and face the reality of our impact on others, we
 ### ID: p24-19
 Generosity, compassion, lovingkindness, and forgiveness allow us to experience equanimity as we face pain and discomfort, both in ourselves and others. The fourth heart practice is **equanimity**. During our addictions, we often responded to situations that caused us anger, fear, or resentment with a craving that the situations be different. We gave up and surrendered to the negative experience of life. Equanimity does not mean giving up; it is more a quality of leaning in. It is finding peace exactly where we are, regardless of external circumstances. Equanimity allows us to be right in the middle of things, to understand and accept things as they are without needing to escape. When we gave up, we said, “I don’t care what happens.” Equanimity, on the other hand, is being able to say, “I can be present for this.” It’s the acceptance that while there are some things we cannot change, we still have power over how we respond to them. While we don’t always have control over our thoughts and feel ings, we do have power over how we feed them.
 
-*[chaptersub]*
 ## Chapter 24.1: INQUIRY OF WISE INTENTION:
+*[chaptersub]*
 
 ### ID: p24.1-1
 *[inquirybullitt]*
@@ -730,8 +730,8 @@ During your periods of addictive behavior, how did you act in ways that were cli
 *[inquirybullitt]*
 What actions have you taken that have harmed others? Have you formed an intention to reconcile with both yourself and the person or people you've harmed (to make amends)? If so, have you found a wise friend or mentor you can go to for guidance and support in the amends process, (which is summarized below)? What support can this person provide as you begin the process of amends?
 
-*[chaptersub]*
 ## Chapter 24.2: MAKING AMENDS:
+*[chaptersub]*
 
 ### ID: p24.2-1
 *[inquirybullitt]*
@@ -777,8 +777,8 @@ How would this situation look different if you brought these factors to mind bef
 *[inquirynumlist]*
 If you don’t want to, can you at least have the intention and willingness to do so?
 
-*[chaptermain]*
 ## Chapter 25: WISE SPEECH
+*[chaptermain]*
 
 ### ID: p25-1
 Wise Speech is based on the intention to do no harm. We’ve all used speech in a manner that may create harm: lying to keep others from knowing what’s really going on; gossiping with the intention of putting someone down or satisfying our desire to be recognized; stealing time and attention by chattering on and on; or trying to convince others to meet our own needs at the expense of their own. Wise Speech includes all the ways we use our voices, including online and in writing.
@@ -804,8 +804,8 @@ It may sound like Wise Speech is primarily about discerning when not to speak, b
 ### ID: p25-8
 Finally, Wise Speech is careful listening. It is also knowing when not to speak when a wise response isn’t available to us. We must listen with compassion, understanding, and receptivity. It can be really helpful to observe how much of the time we spend “listening” to someone else is actually spent judging them or planning what we’re going to say in response. Deep listening — without selfishness, or an agenda — is an act of generosity that lets us build true connection.
 
-*[chaptersub]*
 ## Chapter 25.1: INQUIRY OF WISE SPEECH:
+*[chaptersub]*
 
 ### ID: p25.1-1
 *[inquirybullitt]*
@@ -827,8 +827,8 @@ Are you careful to avoid causing harm with your speech?
 *[inquirybullitt]*
 Do you say things you know are not true, or pretend to know the truth about something when you don't, to appear more knowledgeable or credible than you are? List some examples.
 
-*[chaptermain]*
 ## Chapter 26: WISE ACTION
+*[chaptermain]*
 
 ### ID: p26-1
 Wise Action is also based in the intention to do no harm and to foster compassion, lovingkindness, generosity, and forgiveness. We try to do what’s skillful, and avoid actions that are unskillful. Wise Action asks that we try to make choices based on understanding and not unthinking habits or ignorance.
@@ -839,8 +839,8 @@ The Buddha suggested that we make a commitment to avoid five specific actions th
 ### ID: p26-8
 We need to continually reflect on and question the intentions behind our actions. We may have moments of clarity, but these can quickly pass, when old habits or thoughts resurface. We commit to con stantly reminding ourselves of our intention to Wise Action: to act in ways that are non-harming.
 
-*[chaptersub]*
 ## Chapter 26.1: INQUIRY OF WISE ACTION:
+*[chaptersub]*
 
 ### ID: p26.1-1
 *[inquirybullitt]*
@@ -918,8 +918,8 @@ What substances and behaviors have you become reliant on to change or cloud your
 *[inquirybullitt]*
 List ways you might practice the Five Precepts, compassion, lovingkindness, and generosity in your decision-making.
 
-*[chaptermain]*
 ## Chapter 27: WISE LIVELIHOOD:
+*[chaptermain]*
 
 ### ID: p27-1
 The final factor in the ethical group is Wise Livelihood, which focuses on how we support ourselves in the world. Again, the intent is to avoid causing harm. For most of us, our work occupies so much of our time and attention, so how we choose to make a living takes on special importance. Understanding the principle of karma, and knowing that unethical activity gives rise to harmful karma, whatever choices or circumstances lead us to a particular job need to be recognized as having karmic consequences.
@@ -930,8 +930,8 @@ We try to avoid jobs that give rise to suffering and seek work that does no harm
 ### ID: p27-3
 Whatever our job is, we can practice it mindfully, with an in tention of non-harm, of easing suffering, and of compassion. This means developing an attitude toward our occupation beyond just the money we make. We can develop an approach of service and caring about the effects of our actions on others, both within and outside our workspaces. Wise Livelihood is not about judging ourselves or others for their choice of work or trying to limit their choices. Instead, we try to understand why and how we engage in whatever occupation we practice. Whatever work we do, we can maintain an intention of benefiting others.
 
-*[chaptersub]*
 ## Chapter 27.1: INQUIRY OF WISE LIVELIHOOD:
+*[chaptersub]*
 
 ### ID: p27.1-1
 *[inquirybullitt]*
@@ -957,8 +957,8 @@ How can you be of service in your community?
 *[inquirybullitt]*
 How might you bring a spirit of generosity to your life, both in your profession and outside it?
 
-*[chaptermain]*
 ## Chapter 28: WISE EFFORT:
+*[chaptermain]*
 
 ### ID: p28-1
 Wise Effort is the first of the concentration group. It means concentrating our effort on understanding and recovery and awakening. Wise Effort isn’t based on how much we should meditate, how much service we should do, or how much time we put into healthy activity. Instead, it’s the intention to devote balanced energy to supporting the other parts of the path, particularly wisdom.
@@ -975,8 +975,8 @@ In early recovery, we may be most interested in damage control: simply stopping 
 ### ID: p28-5
 Try to remember that whatever your experience is right now, it will pass. Remind yourself that you don’t really know how long an unpleasant or painful experience will last. Try to be open to recognizing and investigating the experience while it is present, without interpreting it as a permanent part of your experience. Recognizing that the craving, experience, or thought will pass makes it easier to avoid the impulse to make an immediate, unskillful response.
 
-*[chaptersub]*
 ## Chapter 28.1: INQUIRY OF WISE EFFORT:
+*[chaptersub]*
 
 ### ID: p28.1-1
 *[inquirybullitt]*
@@ -994,8 +994,8 @@ Are you dealing with overwhelming desires, aversions, laziness or discouragement
 *[inquirybullitt]*
 Are you avoiding feelings by checking out and giving up, or through obsessive busyness and perfectionism?
 
-*[chaptermain]*
 ## Chapter 29: WISE MINDFULNESS:
+*[chaptermain]*
 
 ### ID: p29-1
 Mindfulness — being present to what’s going on in our minds, bodies, hearts, and world — is central to the practice of the Eightfold Path. We learn to be present for the way things are with compassion, without judging them or ourselves. Mindfulness is being aware of what ever is present, noticing it, and letting it pass. It’s also remembering that we’re on a path leading to our freedom and long-lasting happiness.
@@ -1024,8 +1024,8 @@ Two simple practices can make mindfulness a part of our daily lives. First, we c
 ### ID: p29-9
 A second practice is to take time to inquire into the truthful ness of the negative or difficult messages we give ourselves. First, take time to ask yourself whether the message is true. Second, ask how sure you are that it’s true. Are you absolutely certain about what may seem like an easy or automatic truth? Third, notice how you feel when you believe the thought: Does it lead to fear, anger, sadness, desire? Finally, reflect on who you’d be without the thought. How would you feel if you weren’t caught up in the particular mindset or scenario you’re creating?
 
-*[chaptersub]*
 ## Chapter 29.1: INQUIRY OF WISE MINDFULNESS:
+*[chaptersub]*
 
 ### ID: p29.1-1
 *[inquirybullitt]*
@@ -1047,8 +1047,8 @@ What are steps you can take to question the "truths" that your mind tells you, r
 *[inquirybullitt]*
 Think about times when you felt fear, doubt, or hesitation. Now, let yourself become aware of their temporary nature. How might that awareness have led to an outcome that was less harmful?
 
-*[chaptermain]*
 ## Chapter 30: WISE CONCENTRATION:
+*[chaptermain]*
 
 ### ID: p30-1
 The final aspect of the Eightfold Path is Wise Concentration. Meditation practice begins with concentrating on the breath, the body, the emotional tone of the moment, and the processes of the mind, be cause these things exist in the present moment. If we focus on breath, for example, we’re paying attention to the present moment because our breathing is immediate: it’s happening right now. Breathing is a natural process that doesn’t require judgment or interpretation, and so it eases the mind from the need to react.
@@ -1071,8 +1071,8 @@ For trauma survivors, the breath, the heart, and the mind can be potentially ove
 ### ID: p30-7
 If you feel powerful emotions begin to arise during meditation, there are some simple things you can do to remain present. For example, you can open your eyes rather than keeping them closed, or give yourself permission to back off from the practice you are working on. Do whatever you need to do to take care of yourself should such a state arise, wheth er that is taking some deep breaths, putting a name on your experience (such as “flashback”), or silently repeating some compassionate phrases to yourself. Learning to turn our attention back and forth between challenging sensations and our own supportive resources is a valuable skill that professionals call titration. You can be gentle with your practice as you are working to develop this skill.
 
-*[chaptersub]*
 ## Chapter 30.1: INQUIRY OF WISE CONCENTRATION:
+*[chaptersub]*
 
 ### ID: p30.1-1
 *[inquirybullitt]*
@@ -1094,8 +1094,8 @@ What are steps you can take to use concentration to see clearly and act wisely?
 *[inquirybullitt]*
 What are steps you can take to be kind and gentle with yourself through this process?
 
-*[chaptermain]*
 ## Chapter 31: COMMUNITY: SANGHA
+*[chaptermain]*
 
 ### ID: p31-1
 Sangha is the third of the Three Jewels: loosely translated, it means “community.” It’s where Buddha and Dharma find their expression, where we’re supported in putting those principles into action. It’s a community of friends practicing the Dharma together in order to develop our own awareness and to maintain it. The traditional definition of sangha originally described monastic communities of ordained monks and nuns, but in many Buddhist traditions it has evolved to include the wider spiritual community. For us, our sangha is our community of both Dharma practice and recovery.
@@ -1127,8 +1127,8 @@ But not every meeting is going to be a fit for every person. You may live in an 
 ### ID: p31-10
 However you find them, trust that there are wise friends and a sangha out there for you.
 
-*[chaptermain]*
 ## Chapter 32: ISOLATION AND CONNECTION
+*[chaptermain]*
 
 ### ID: p32-1
 Addiction and addictive behavior can create people without roots. Some of us have been uprooted from our families and from society. We wander around, feeling as though we’re not quite whole, because our addictions feed our isolation and loneliness. Many of us come from broken families, feel rejected or have been isolated from society through incarceration or institutionalization. Not all of us have disconnected to that degree, but we do tend to live on the margins, looking for a home, for somewhere to belong. A community of practice, a sangha, can provide a second chance to someone who’s become alienated from society, or just a comfortable place to bring all of ourselves, including parts we don’t usually share with others. If the community of practice is organized with cultural humility and an open, friendly, compassionate atmosphere, we can find support for our practice and recovery.
@@ -1172,8 +1172,8 @@ When we come together to talk honestly about ourselves and what happened in our 
 ### ID: p32-14
 And that can make all the difference in our lives.
 
-*[chaptermain]*
 ## Chapter 33: REACHING OUT
+*[chaptermain]*
 
 ### ID: p33-1
 For many of us in early recovery, asking for help feels almost impossible. But we have found, as difficult as it can be, that it can literally save our lives and that with practice it becomes easier.
@@ -1205,8 +1205,8 @@ There is great truth in the cliché that burdens are lighter when they’re shar
 ### ID: p33-10
 When we first come into recovery, we may not immediately have easy access to our inner wisdom. Many of us have been relying on the delusions of fear and shame and reactivity as our guides in life. It takes time to lift those veils, to dig through those layers in order to break those habits and begin to see clearly. For many of us, it takes time to be able to trust ourselves. But we can look to our sangha, our community of wise friends on the path, for guidance and wisdom. When we don’t know what to do, when we lose faith that we can make it through this craving, when we’re lost in obsession and can’t make sense of our own minds and hearts, when the world feels upside down, when we are crawling out of our skin with discomfort, when we have no idea what the next wise step is — this is when we can and must reach out to our sangha for help. Because those in our sangha have gone through what we have. They’ve made it to the other side. And they can show us how to do so as well.
 
-*[chaptermain]*
 ## Chapter 34: WISE FRIENDS AND MENTORS
+*[chaptermain]*
 
 ### ID: p34-1
 Many — if not most — recovery meetings are focused on meditating together, reading literature or exploring specific topics, and sharing. There are no requirements for attendance other than a respectful curiosity, and meetings are a great opportunity for newcomers to learn about the program. Sometimes, those who have decided to commit to this program of recovery want more support on the path. This is where the idea of a "wise friend" or "mentor" comes in.
@@ -1229,8 +1229,8 @@ If you need help, know that you're a part of a broader community of wise friends
 ### ID: p34-7
 At any time, in groups as well as in every aspect of our lives, the reminder is that when in doubt, we can be present and we can be kind.
 
-*[chaptermain]*
 ## Chapter 35: SERVICE AND GENEROSITY
+*[chaptermain]*
 
 ### ID: p35-1
 In Buddhism, dāna, or generosity, is the first on the list of good qualities that lead a person to enlightenment.
@@ -1256,8 +1256,8 @@ As we become more comfortable with a generous, open heart, we experience greater
 ### ID: p35-8
 We practice generosity to be of service to others, to extend heal ing and happiness to all beings, and to try in some small way to reduce the suffering in this world. As we continue to work with generosity, we learn that the inner practice of recognizing the emptiness of our attachments and building up resilience is one and the same as the outer practice of giving and service.
 
-*[chaptermain]*
 ## Chapter 36: RECOVERY IS POSSIBLE
+*[chaptermain]*
 
 ### ID: p36-1
 In the pages of this book is a path, a set of principles and practices, that can lead to the end of our suffering and see us through the damage that we piled onto ourselves through our addictions. The path is based on gaining and maintaining mindfulness of our feelings, bodies, minds, and experiences. During our journey, we come to accept that we're responsible for our own actions, and that every choice has a consequence. If we act unskillfully or mindlessly, we will experience pain in our feelings, thoughts, and experiences (karma), and we may cause harm to others. We begin to recognize that every thought, feeling, and experience is only temporary (impermanence), that it will pass if we allow it to, and trusting this can provide a safe harbor in moments of craving or pain. We start to believe that even the most difficult, traumatic, and painful actions and events of our past don't define who we are today, nor do they define the possibilities in our future. It is our choices and actions now that define us.
